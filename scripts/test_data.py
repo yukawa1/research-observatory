@@ -26,3 +26,11 @@ for p in papers:
             assert len(analysis.get(key, "")) >= 80, f"missing detailed {key}: {p['id']}"
         assert len(analysis.get("findings", [])) >= 3, f"too few key results: {p['id']}"
 print(f"Validated {len(papers)} papers ({reviewed} detailed analyses)")
+
+# Curated explanations must have an editorial comic with a descriptive alternative text.
+for paper in papers:
+    if paper.get("review_status") == "curated":
+        assert paper.get("comic") == f"comics/{paper['id']}.svg", paper["id"]
+        assert len(paper.get("comic_alt", "")) > 25, paper["id"]
+    else:
+        assert not paper.get("comic"), f"Unreviewed comic: {paper['id']}"

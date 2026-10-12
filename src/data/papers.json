@@ -50,7 +50,10 @@
       "interpretation": "This is a direct caution for studies that infer BLR physics from fitted optical profiles. The decomposition of broad and narrow Hβ is not an innocuous plotting decision: it propagates into FWHM, virial masses, accretion indicators and the apparent strength of correlations. A robust science result ought to survive sensible profile alternatives, or explicitly include that model-choice uncertainty.",
       "limitations": "The alternative line prescriptions are parameterizations, not unique physical reconstructions of the BLR geometry. The stronger correlation alone does not prove that the Gaussian decomposition is physically correct. The numerical findings here are based on the arXiv abstract; inspect the full fitting procedure and selection function before using the reported coefficients in a manuscript.",
       "relevance": "High priority for optical AGN spectroscopy, BLR-profile modeling and any analysis involving Hβ, NLS1 classifications or Baldwin-type trends. A useful next step is to quantify how the choice of profile alters slopes and intrinsic scatter after controlling for luminosity, mass and accretion rate."
-    }
+    },
+    "comic": "comics/2610.13218.svg",
+    "comic_alt": "Original black-and-white editorial three-panel science comic explaining The Population of Type 1 Active Galactic Nuclei in Dark Energy Spectroscopic Instrument. I. Profile-dependent Measurements of the Low-redshift Sample",
+    "comic_note": "Editorial analogy, not a figure or a measurement from the source paper."
   },
   {
     "id": "2610.13920",
@@ -294,7 +297,10 @@
       "interpretation": "A continuum lag is not necessarily a direct geometric ruler. Its measured value can combine irradiation, transfer through the disk and stochastic fluctuations in the emitting material. This offers a possible alternative explanation for the long-lag, apparently oversized-disk problem in AGN continuum reverberation.",
       "limitations": "This is a physically motivated simulation, not a measurement establishing that all AGN disks have the same asymmetry. The title's “No Broad Line Region Required” should not be interpreted as evidence that the BLR never contributes to diffuse continuum emission. The broad applicability of the proposed geometry needs tests across accretion rates, wavelengths and real objects.",
       "relevance": "Important for interpreting AGN variability and reverberation-mapping results. A useful observational test is whether the wavelength dependence and X-ray correlations of lags can distinguish intrinsic-disk propagation from BLR diffuse-continuum contributions."
-    }
+    },
+    "comic": "comics/2610.12462.svg",
+    "comic_alt": "Original black-and-white editorial three-panel science comic explaining Disk Structure May Determine AGN Variability and Explain the Accretion Disk Size Problem: No Broad Line Region Required",
+    "comic_note": "Editorial analogy, not a figure or a measurement from the source paper."
   },
   {
     "id": "2610.12715",
@@ -340,7 +346,10 @@
       "interpretation": "Balmer decrements are often interpreted as extinction tracers. The broader methodological point is that ratios also depend on radiative transfer and atomic-level excitation, so a single assumed intrinsic decrement can import a systematic error into reddening and luminosity estimates.",
       "limitations": "The paper studies a specific proposed excitation channel and does not establish that it dominates in the high-density BLR of an AGN. The applicability of Case B or its departures depends on gas density, optical depth, incident continuum and geometry. An AGN application would require a separate calculation in a realistic BLR regime.",
       "relevance": "Relevant to Hα/Hβ interpretation, optical spectral decomposition and physical conditions in emitting gas. One possible extension is to test how a non-standard intrinsic decrement biases reddening corrections and optical luminosity estimates in AGN samples."
-    }
+    },
+    "comic": "comics/2610.12715.svg",
+    "comic_alt": "Original black-and-white editorial three-panel science comic explaining Exploring Case B I: The Footprints of Hidden Radiation Fields in H I Balmer Decrements",
+    "comic_note": "Editorial analogy, not a figure or a measurement from the source paper."
   },
   {
     "id": "2610.12553",
@@ -432,7 +441,10 @@
       "interpretation": "The paper is primarily a demonstration of the difference between an observed correlation and a physical state-transition diagnostic. Before invoking a disk–corona transition, one must ensure that the derived quantities on the plot are independent enough to support the inference.",
       "limitations": "This analysis does not demonstrate that changing-look AGNs lack physical accretion-state changes. It challenges the uniqueness and interpretation of one family of diagnostics. More direct X-ray spectroscopy, independent accretion-rate estimates and robust covariance modeling remain needed.",
       "relevance": "Useful for AGN variability studies and for designing statistically defensible correlations between spectroscopic quantities and accretion indicators. In follow-up analysis, construct null models that explicitly include common luminosity terms and selection effects."
-    }
+    },
+    "comic": "comics/2610.10331.svg",
+    "comic_alt": "Original black-and-white editorial three-panel science comic explaining Changing-look Active Galactic Nuclei from the Dark Energy Spectroscopic Instrument. VII. Testing Disk-Corona Diagnostics with eROSITA",
+    "comic_note": "Editorial analogy, not a figure or a measurement from the source paper."
   },
   {
     "id": "2610.10522",
@@ -669,7 +681,10 @@
       "interpretation": "The demonstration is more about the feasibility and selection function of variability-based searches than about a measured black-hole occupation fraction. Rubin's cadence and survey area may make it possible to build a much larger sample of faint variable nuclei.",
       "limitations": "Photometric variability is not an AGN confirmation: supernovae and other transients can produce similar signals. The selection threshold, detection completeness and observing baseline strongly affect the observed fraction. Spectroscopic follow-up is essential to establish the identity and redshift of individual candidates.",
       "relevance": "Directly useful for preparing LSST variability-selection strategies, prioritizing spectroscopic follow-up and studying the interface between time-domain photometry and AGN identification. An obvious next step is to optimize when to request spectra based on variability strength and classification uncertainty."
-    }
+    },
+    "comic": "comics/2610.10755.svg",
+    "comic_alt": "Original black-and-white editorial three-panel science comic explaining Pushing Variability Searches to Extreme Dwarf Galaxies with the Vera C. Rubin Observatory Data Preview 2",
+    "comic_note": "Editorial analogy, not a figure or a measurement from the source paper."
   },
   {
     "id": "2610.10726",

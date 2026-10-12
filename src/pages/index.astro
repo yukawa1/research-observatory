@@ -36,6 +36,7 @@ const short=(s,limit=235)=>s.length>limit?s.slice(0,limit).replace(/\s+\S*$/,'')
         <div class="paper-meta"><span class={'readiness-label '+(hasAnalysis?'complete':'pending')}>{hasAnalysis?'✦ DETAILED ANALYSIS':'○ ABSTRACT ONLY'}</span><time datetime={p.published}>{new Date(p.published+'T00:00:00Z').toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric',timeZone:'UTC'})}</time><span>{p.status}</span></div>
         <h3><a href={base+'/papers/'+p.id+'/'}>{p.title}</a></h3>
         <p class="paper-authors">{p.authors.slice(0,3).join(', ')}{p.authors.length>3?' et al.':''}</p>
+        {hasAnalysis&&p.comic&&<a class="comic-preview-link" href={base+'/papers/'+p.id+'/#comic-explainer'} aria-label={'View comic explainer for '+p.title}><img class="comic-preview" src={base+'/'+p.comic} alt={p.comic_alt} loading="lazy" decoding="async" width="1200" height="770"/><span class="comic-preview-caption">Illustrated comic explainer <span aria-hidden="true">↗</span></span></a>}
         <p class="paper-summary">{hasAnalysis?short(p.lay_summary||p.scientific_summary,290):short(p.abstract||'',230)}</p>
         <div class="tagline">{p.tags.map(t=><span class="tag">{t}</span>)}</div>
         <a class="paper-read-link" href={base+'/papers/'+p.id+'/'}>{hasAnalysis?'Read full analysis':'View source abstract'} <span aria-hidden="true">↗</span></a>

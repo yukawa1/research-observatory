@@ -25,6 +25,7 @@ const authorLine=p.authors.length>5?p.authors.slice(0,5).join(' · ')+' · et al
     <article class="article-body">
     {analyzed?
       <>
+        {p.comic&&<section class="comic-explainer" id="comic-explainer" aria-label="Science comic explainer"><div class="eyebrow orange">ILLUSTRATED EXPLAINER</div><h2>A comic take on the science</h2><figure><a href={base+'/'+p.comic} target="_blank" rel="noopener noreferrer" title="Open full-size comic"><img src={base+'/'+p.comic} alt={p.comic_alt} width="1200" height="770" decoding="async"/></a><figcaption>Original editorial illustration · A simplified analogy, not a scientific figure. <a href={base+'/'+p.comic} target="_blank" rel="noopener noreferrer">View full size ↗</a></figcaption></figure></section>}
         <div class="reading-intro">
           <div class="eyebrow orange">01 / READ IN TWO MINUTES</div>
           <h2>What is this about?</h2>
