@@ -4,5 +4,84 @@ import papers from '../../data/papers.json';
 export function getStaticPaths(){return papers.map(p=>({params:{id:p.id},props:{paper:p}}))}
 const {paper:p}=Astro.props;
 const base=import.meta.env.BASE_URL.replace(/\/$/,'');
+const analyzed=p.review_status==='curated'&&Boolean(p.analysis);
+const authorLine=p.authors.length>5?p.authors.slice(0,5).join(' · ')+' · et al.':p.authors.join(' · ');
 ---
-<Base title={p.title} description={p.abstract}><section class="detail shell"><a class="back-link" href={base+'/'}>← BACK TO THE OBSERVATORY</a><div class="detail-header"><div class="eyebrow orange">RESEARCH NOTE / {p.category} / {p.id}</div><h1>{p.title}</h1><div class="detail-authors">{p.authors.join(' · ')}</div><div class="detail-badges"><span class="tag">{p.status}</span><span class="tag">{p.review_status==='curated'?'Curated interpretation':'Metadata only'}</span><span class="tag">{p.evidence_level||'Abstract only'}</span></div><div class="detail-cta"><a class="primary-btn" href={p.link} target="_blank" rel="noopener noreferrer">Read original on arXiv ↗</a><span>Published {p.published} · Last updated {p.updated}</span></div></div><div class="reading-layout"><div class="article-body"><div class="eyebrow orange">01 / AT A GLANCE</div><h2>In plain language</h2><p class="pull">{p.lay_summary||'This paper is indexed from arXiv. A simplified explanation has not yet been reviewed.'}</p><hr/><div class="eyebrow orange">02 / THE RESEARCH</div><h2>Scientific overview</h2><p>{p.scientific_summary||p.abstract}</p><div class="evidence"><strong>Evidence note</strong><p>{p.caveat||'The summary above is derived from author-provided abstract metadata. It is not an independent review or validation of the complete study.'}</p></div><hr/><div class="eyebrow orange">03 / SOURCE</div><h2>Reference</h2><p>{p.reference||p.authors.join(', ')+'. '+p.title+'. arXiv:'+p.id+'.'}</p><p class="citation"><a href={p.link} target="_blank" rel="noopener noreferrer">{p.link} ↗</a></p><p class="footnote">This website is an independent discovery aid, not a substitute for reading the original research. arXiv preprints may not have undergone peer review.</p></div><aside class="sidebar"><div class="sidebar-title">PAPER DOSSIER</div><dl><dt>arXiv identifier</dt><dd>{p.id}</dd><dt>Primary category</dt><dd>{p.category}</dd><dt>First published</dt><dd>{p.published}</dd><dt>Publication status</dt><dd>{p.status}</dd><dt>Analysis status</dt><dd>{p.review_status==='curated'?'Curated / editorial':'Metadata / author abstract'}</dd></dl><div class="sidebar-title">RESEARCH THEMES</div><div class="tagline">{p.tags.map(t=><span class="tag">{t}</span>)}</div><a href={base+'/'} class="sidebar-return">← All research</a></aside></div></section></Base>
+<Base title={p.title} description={p.abstract}>
+<section class="detail shell">
+  <a class="back-link" href={base+'/#archive'}>← BACK TO THE RESEARCH ARCHIVE</a>
+  <div class="detail-header">
+    <div class="eyebrow orange">RESEARCH NOTE / {p.category} / arXiv:{p.id}</div>
+    <h1 class="paper-title">{p.title}</h1>
+    <div class="detail-authors">{authorLine}</div>
+    <div class="detail-badges">
+      <span class={'readiness-label '+(analyzed?'complete':'pending')}>{analyzed?'✦ DETAILED ANALYSIS':'○ ABSTRACT ONLY'}</span>
+      <span class="tag">{p.status}</span>
+      <span class="tag">{p.evidence_level||'Author abstract'}</span>
+    </div>
+    <div class="detail-cta"><a class="primary-btn" href={p.link} target="_blank" rel="noopener noreferrer">Original arXiv paper ↗</a><span>Submitted {p.published} · Updated {p.updated}</span></div>
+  </div>
+  <div class="reading-layout">
+    <article class="article-body">
+    {analyzed?
+      <>
+        <div class="reading-intro">
+          <div class="eyebrow orange">01 / READ IN TWO MINUTES</div>
+          <h2>What is this about?</h2>
+          <p class="pull">{p.lay_summary}</p>
+        </div>
+        <div class="analysis-section">
+          <div class="eyebrow orange">02 / RESEARCH QUESTION</div>
+          <h2>What did the authors ask?</h2>
+          <p>{p.analysis.question}</p>
+        </div>
+        <div class="analysis-section">
+          <div class="eyebrow orange">03 / METHOD</div>
+          <h2>How did they investigate it?</h2>
+          <p>{p.analysis.approach}</p>
+        </div>
+        <div class="analysis-section">
+          <div class="eyebrow orange">04 / EVIDENCE</div>
+          <h2>Key scientific results</h2>
+          <ul class="findings">{p.analysis.findings.map((finding,index)=><li><span class="finding-number">{String(index+1).padStart(2,'0')}</span><p>{finding}</p></li>)}</ul>
+        </div>
+        <div class="analysis-section">
+          <div class="eyebrow orange">05 / INTERPRETATION</div>
+          <h2>What does it mean?</h2>
+          <p>{p.analysis.interpretation}</p>
+        </div>
+        <div class="analysis-section">
+          <div class="eyebrow orange">06 / CAUTION</div>
+          <h2>Limitations &amp; open questions</h2>
+          <p>{p.analysis.limitations}</p>
+        </div>
+        <div class="relevance-panel">
+          <div class="eyebrow orange">07 / RESEARCH RELEVANCE</div>
+          <h2>Why this paper is worth following</h2>
+          <p>{p.analysis.relevance}</p>
+        </div>
+        <div class="evidence"><strong>Editorial evidence standard</strong><p>This research note is based on the source-checked arXiv abstract, with explanatory context added. It is not a complete independent verification of all figures, analyses or supplementary materials. Treat any proposed follow-up as a research idea, not as an established result.</p></div>
+      </>
+      :
+      <>
+        <div class="abstract-warning"><span class="readiness-label pending">○ NOT YET ANALYZED</span><h2>Original abstract only</h2><p>This record was imported automatically. It has bibliographic details and the authors' abstract, but <strong>no curated interpretation or scientific review yet</strong>. Use “Detailed analyses” on the archive page to find the papers that include explanations.</p><a class="secondary-btn" href={base+'/#archive'}>Browse detailed analyses ↗</a></div>
+        <div class="analysis-section"><div class="eyebrow orange">AUTHOR-PROVIDED SOURCE</div><h2>Abstract</h2><p>{p.abstract}</p></div>
+      </>
+    }
+    <div class="analysis-section source-section">
+      <div class="eyebrow orange">{analyzed?'08':'01'} / SOURCE</div>
+      <h2>Reference and original paper</h2>
+      <p>{p.reference||p.authors.join(', ')+'. '+p.title+'. arXiv:'+p.id+'.'}</p>
+      <p class="citation"><a href={p.link} target="_blank" rel="noopener noreferrer">{p.link} ↗</a></p>
+      <p class="footnote">This archive is a research reading aid, not a replacement for the original manuscript. A preprint or author-reported acceptance does not by itself verify every claim.</p>
+    </div>
+    </article>
+    <aside class="sidebar">
+      <div class="sidebar-title">PAPER DOSSIER</div>
+      <dl><dt>arXiv identifier</dt><dd>{p.id}</dd><dt>Primary category</dt><dd>{p.category}</dd><dt>Submitted</dt><dd>{p.published}</dd><dt>Publication status</dt><dd>{p.status}</dd><dt>Editorial status</dt><dd>{analyzed?'Detailed analysis / abstract-sourced':'Author abstract only'}</dd><dt>Source scope</dt><dd>{p.evidence_level||'Author abstract'}</dd></dl>
+      <div class="sidebar-title">RESEARCH THEMES</div><div class="tagline">{p.tags.map(t=><span class="tag">{t}</span>)}</div>
+      <a href={base+'/#archive'} class="sidebar-return">← Back to archive</a>
+    </aside>
+  </div>
+</section>
+</Base>
