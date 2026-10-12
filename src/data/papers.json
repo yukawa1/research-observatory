@@ -1,0 +1,190 @@
+[
+  {
+    "id": "2610.13218",
+    "title": "The Population of Type 1 Active Galactic Nuclei in Dark Energy Spectroscopic Instrument. I. Profile-dependent Measurements of the Low-redshift Sample",
+    "authors": [
+      "Zhu-Heng Yao",
+      "Wei-Jian Guo",
+      "Shuo Zhai",
+      "Yu-Chang Li",
+      "Cheng Cheng",
+      "Jun-Rong Liu",
+      "Shuang Jin",
+      "Antonios Katsianis",
+      "Jing Wang",
+      "Da-Wei Xu",
+      "Jian-Yan Wei"
+    ],
+    "published": "2026-10-09",
+    "updated": "2026-10-09",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "BLR",
+      "Spectroscopy",
+      "Baldwin effect"
+    ],
+    "score": 19,
+    "status": "Accepted (author-reported)",
+    "version": 1,
+    "review_status": "curated",
+    "evidence_level": "Abstract and selected sections",
+    "link": "https://arxiv.org/abs/2610.13218",
+    "abstract": "A DESI DR1 analysis of 114,754 type 1 active galactic nuclei at z ≤ 0.9 compares Lorentzian and Gaussian decompositions of broad Balmer profiles, finding systematic differences in line widths, inferred black-hole masses and correlations.",
+    "lay_summary": "Scientists measured the same glowing gas in active galaxies using two different mathematical descriptions. The choice changed some conclusions about the black holes at their centers.",
+    "scientific_summary": "A homogeneous DESI DR1 sample of 114,754 Type 1 AGN (z ≤ 0.9) is fitted using either Lorentzian or multi-Gaussian broad Balmer components. The Gaussian prescription generally yields larger broad-Hβ FWHM and virial black-hole mass estimates, alongside lower inferred accretion rates. For [O III] λ5007/narrow-Hβ versus accretion rate, the authors report Spearman rₛ = −0.206 (Lorentzian) and −0.412 (Gaussian).",
+    "caveat": "Virial masses are model-dependent. Minor discrepancies between coefficients quoted in different sections of the preprint require checking before reuse.",
+    "reference": "Yao et al. (2026), arXiv:2610.13218v1; accepted to ApJS per authors."
+  },
+  {
+    "id": "2610.12462",
+    "title": "Disk Structure May Determine AGN Variability and Explain the Accretion Disk Size Problem: No Broad Line Region Required",
+    "authors": [
+      "Amy Secunda",
+      "Yan-Fei Jiang",
+      "Jenny E. Greene"
+    ],
+    "published": "2026-10-08",
+    "updated": "2026-10-08",
+    "category": "astro-ph.HE",
+    "categories": [
+      "astro-ph.HE",
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "Variability",
+      "Reverberation mapping",
+      "BLR"
+    ],
+    "score": 17,
+    "status": "Preprint",
+    "version": 1,
+    "review_status": "curated",
+    "evidence_level": "Abstract and selected sections",
+    "link": "https://arxiv.org/abs/2610.12462",
+    "abstract": "A radiation-magnetohydrodynamic simulation investigates how an asymmetric accretion disk can affect AGN UV–optical variability and continuum time lags.",
+    "lay_summary": "A black hole's surrounding disk might be thicker on one side than the other. In simulations, that extra thickness makes changes in light appear much later than simple models predict.",
+    "scientific_summary": "Three-dimensional, multifrequency radiation-MHD simulations of an AGN disk region emitting at 1300–5940 Å show different timing behavior above and below the midplane. UV–optical emission from the thicker side has weak X-ray correlation and continuum lags approximately 3–5 times the simple light-travel time.",
+    "caveat": "A simulation demonstrating a plausible mechanism—not evidence that the broad-line region never contributes to continuum reverberation.",
+    "reference": "Secunda, Jiang & Greene (2026), arXiv:2610.12462v1; submitted to ApJ."
+  },
+  {
+    "id": "2610.12715",
+    "title": "Exploring Case B I: The Footprints of Hidden Radiation Fields in H I Balmer Decrements",
+    "authors": [
+      "Maryam Dehghanian",
+      "Fransisco Guzman",
+      "Peter van Hoof",
+      "Chamani Gunasekera",
+      "Gary Ferland"
+    ],
+    "published": "2026-10-08",
+    "updated": "2026-10-08",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "Spectroscopy",
+      "Balmer lines"
+    ],
+    "score": 14,
+    "status": "Preprint",
+    "version": 1,
+    "review_status": "curated",
+    "evidence_level": "Abstract",
+    "link": "https://arxiv.org/abs/2610.12715",
+    "abstract": "Theory explores how a soft non-ionizing radiation field alters hydrogen Balmer emission relative to Case B recombination and dust-reddening predictions.",
+    "lay_summary": "Hydrogen gives off a familiar pattern of colors. Researchers suggest that an additional, hidden source of soft light can change this pattern in ways that are different from ordinary dust.",
+    "scientific_summary": "Photoexcitation from hydrogen's metastable 2s level by an additional non-ionizing continuum can perturb Case B Balmer ratios. The reported strongest response occurs for approximate blackbody fields with log10(T_eff/K) ~ 3.2–4.2; Hα/Hβ and Hγ/Hβ shift differently from the conventional dust-reddening trajectory.",
+    "caveat": "The analysis does not establish that this mechanism operates generally in the dense broad-line regions of AGN.",
+    "reference": "Dehghanian et al. (2026), arXiv:2610.12715v1; submitted to ApJL."
+  },
+  {
+    "id": "2610.10331",
+    "title": "Changing-look Active Galactic Nuclei from the Dark Energy Spectroscopic Instrument. VII. Testing Disk-Corona Diagnostics with eROSITA",
+    "authors": [
+      "Wei-Jian Guo",
+      "Shuo Zhai",
+      "Zhu-Heng Yao",
+      "Huaqing Cheng",
+      "Jingwei Hu",
+      "Jun-Jie Jin"
+    ],
+    "published": "2026-10-07",
+    "updated": "2026-10-07",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA",
+      "astro-ph.HE"
+    ],
+    "topic": "agn",
+    "tags": [
+      "Changing-look AGN",
+      "Variability",
+      "Accretion"
+    ],
+    "score": 16,
+    "status": "Accepted (author-reported)",
+    "version": 1,
+    "review_status": "curated",
+    "evidence_level": "Abstract",
+    "link": "https://arxiv.org/abs/2610.10331",
+    "abstract": "A comparison of DESI changing-look AGN, matched control sources and eROSITA X-ray data questions whether a proposed optical/X-ray spectral relation uniquely traces accretion-state transitions.",
+    "lay_summary": "A pattern that looked like a sign of a black hole changing its behavior may partly come from the way scientists calculate the measurements. A different measurement method can even reverse the trend.",
+    "scientific_summary": "DESI changing-look AGN and eROSITA-matched control AGN show that the α_OX–Eddington-ratio relation is not unique to changing-look sources. Its apparent trend is strongly shaped by shared luminosity terms and covariances; using an X-ray-derived Eddington-ratio estimator can reverse the trend's sign.",
+    "caveat": "The analysis cautions against inferring disk–corona state transitions solely from correlated estimators; independent accretion indicators are needed.",
+    "reference": "Guo et al. (2026), arXiv:2610.10331v1; accepted to MNRAS per authors."
+  },
+  {
+    "id": "2610.10755",
+    "title": "Pushing Variability Searches to Extreme Dwarf Galaxies with the Vera C. Rubin Observatory Data Preview 2",
+    "authors": [
+      "Fan Zou",
+      "W. N. Brandt",
+      "Elena Gallo",
+      "Franz E. Bauer",
+      "Angela Bongiorno",
+      "Colin J. Burke",
+      "Alister W. Graham",
+      "Hengxiao Guo",
+      "Lorena Hernández-García",
+      "Marcin Marculewicz",
+      "Dieu D. Nguyen",
+      "Swayamtrupta Panda",
+      "Alessandro Peca",
+      "Bindu Rani",
+      "Claudio Ricci",
+      "Ohad Shemmer",
+      "Wei Leong Tee",
+      "Zhibo Yu"
+    ],
+    "published": "2026-10-07",
+    "updated": "2026-10-07",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "Rubin / LSST",
+      "Variability"
+    ],
+    "score": 10,
+    "status": "Preprint",
+    "version": 1,
+    "review_status": "curated",
+    "evidence_level": "Abstract",
+    "link": "https://arxiv.org/abs/2610.10755",
+    "abstract": "Rubin Data Preview 2 time-domain data are used to search for variability among extreme dwarf galaxies and possible accreting intermediate-mass black holes.",
+    "lay_summary": "An enormous new telescope watched tiny galaxies to see which ones changed brightness. Only a handful did, and more observations are needed to tell which contain feeding black holes.",
+    "scientific_summary": "Rubin DP2 light curves (2025-04-25 to 2026-01-06) were examined for roughly 62,000 galaxies with stellar mass below 10⁸ M☉. Seven variable candidates were selected: two are previously known AGN, three resemble supernovae, and two remain unclassified. The apparent variable fraction for i < 24 is 6.8 (+3.1/−2.1) × 10⁻⁴.",
+    "caveat": "Variability candidates are not automatically AGN detections; spectroscopy is required for confirmation.",
+    "reference": "Zou et al. (2026), arXiv:2610.10755v1."
+  }
+]

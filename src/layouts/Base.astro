@@ -1,0 +1,6 @@
+---
+import '../styles/global.css';
+const {title='Research Observatory', description='A field guide to fresh scientific research.'}=Astro.props;
+const base=import.meta.env.BASE_URL.replace(/\/$/,'');
+---
+<!doctype html><html lang="en"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><meta name="theme-color" content="#0c1526"/><meta name="description" content={description}/><link rel="icon" href={base+'/favicon.svg'}/><title>{title} · Research Observatory</title></head><body><div class="ambient"></div><header class="topbar shell"><a class="brand" href={base+'/'} aria-label="Research Observatory home"><span class="logo">✳</span><span>RESEARCH<br/><strong>OBSERVATORY</strong></span></a><nav aria-label="Main navigation"><a href={base+'/'}>Discover</a><a href={base+'/#archive'}>Archive</a><a href={base+'/about/'}>About</a></nav><a class="top-link" href="https://arxiv.org/" target="_blank" rel="noopener">arXiv ↗</a></header><main><slot/></main><footer class="footer shell"><div><span class="logo small">✳</span> RESEARCH OBSERVATORY <p>Making emerging research easier to discover, without overstating the evidence.</p></div><div><a href={base+'/about/'}>Method & transparency</a><span>Independent project. Not affiliated with arXiv.</span></div></footer></body></html>
