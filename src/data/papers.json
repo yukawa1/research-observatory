@@ -53,7 +53,8 @@
     },
     "comic": "comics/2610.13218.svg",
     "comic_alt": "Original black-and-white editorial three-panel science comic explaining The Population of Type 1 Active Galactic Nuclei in Dark Energy Spectroscopic Instrument. I. Profile-dependent Measurements of the Low-redshift Sample",
-    "comic_note": "Editorial analogy, not a figure or a measurement from the source paper."
+    "comic_note": "Editorial analogy, not a figure or a measurement from the source paper.",
+    "comic_original": "comics/2610.13218.png"
   },
   {
     "id": "2610.13920",
@@ -300,7 +301,8 @@
     },
     "comic": "comics/2610.12462.svg",
     "comic_alt": "Original black-and-white editorial three-panel science comic explaining Disk Structure May Determine AGN Variability and Explain the Accretion Disk Size Problem: No Broad Line Region Required",
-    "comic_note": "Editorial analogy, not a figure or a measurement from the source paper."
+    "comic_note": "Editorial analogy, not a figure or a measurement from the source paper.",
+    "comic_original": "comics/2610.12462.png"
   },
   {
     "id": "2610.12715",
@@ -349,7 +351,8 @@
     },
     "comic": "comics/2610.12715.svg",
     "comic_alt": "Original black-and-white editorial three-panel science comic explaining Exploring Case B I: The Footprints of Hidden Radiation Fields in H I Balmer Decrements",
-    "comic_note": "Editorial analogy, not a figure or a measurement from the source paper."
+    "comic_note": "Editorial analogy, not a figure or a measurement from the source paper.",
+    "comic_original": "comics/2610.12715.png"
   },
   {
     "id": "2610.12553",
@@ -444,7 +447,8 @@
     },
     "comic": "comics/2610.10331.svg",
     "comic_alt": "Original black-and-white editorial three-panel science comic explaining Changing-look Active Galactic Nuclei from the Dark Energy Spectroscopic Instrument. VII. Testing Disk-Corona Diagnostics with eROSITA",
-    "comic_note": "Editorial analogy, not a figure or a measurement from the source paper."
+    "comic_note": "Editorial analogy, not a figure or a measurement from the source paper.",
+    "comic_original": "comics/2610.10331.png"
   },
   {
     "id": "2610.10522",
@@ -684,7 +688,8 @@
     },
     "comic": "comics/2610.10755.svg",
     "comic_alt": "Original black-and-white editorial three-panel science comic explaining Pushing Variability Searches to Extreme Dwarf Galaxies with the Vera C. Rubin Observatory Data Preview 2",
-    "comic_note": "Editorial analogy, not a figure or a measurement from the source paper."
+    "comic_note": "Editorial analogy, not a figure or a measurement from the source paper.",
+    "comic_original": "comics/2610.10755.png"
   },
   {
     "id": "2610.10726",

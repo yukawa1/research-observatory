@@ -34,3 +34,7 @@ for paper in papers:
         assert len(paper.get("comic_alt", "")) > 25, paper["id"]
     else:
         assert not paper.get("comic"), f"Unreviewed comic: {paper['id']}"
+
+for paper in papers:
+    if paper.get("comic"):
+        assert paper.get("comic_original") == f"comics/{paper['id']}.png"
