@@ -1,5 +1,597 @@
 [
   {
+    "id": "2610.30959",
+    "title": "EP J062132.0+623837: A Multi-wavelength Study of a Changing-look Active Galactic Nucleus Discovered by Einstein Probe",
+    "authors": [
+      "Lin-Na Xu",
+      "Ning Jiang",
+      "Tinggui Wang",
+      "Shifeng Huang",
+      "Yibo Wang",
+      "Zhenfeng Sheng",
+      "Mingxin Wu",
+      "Jiazheng Zhu",
+      "Huaqing Cheng",
+      "Chichuan Jin",
+      "Jun-Jie Jin",
+      "Dongyue Li",
+      "Yuan Liu",
+      "Jianwei Lyu",
+      "Jian-Guo Wang",
+      "Yun-Fei Xu",
+      "Yongquan Xue",
+      "Zhen Zhang"
+    ],
+    "published": "2026-10-22",
+    "updated": "2026-10-22",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA",
+      "astro-ph.HE"
+    ],
+    "topic": "agn",
+    "tags": [
+      "active galactic",
+      "agn",
+      "broad-line",
+      "balmer",
+      "changing-look"
+    ],
+    "score": 33,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.30959",
+    "abstract": "EP J062132.0+623837 is a new X-ray source identified in 14-day binned survey data from the Wide-field X-ray Telescope aboard the Einstein Probe (EP). Subsequent X-ray observations with the Follow-up X-ray Telescope (FXT) on board EP localized the source to the central region of the galaxy 2MASX J06213207+6238390 at $z=0.084$. Here, we present a comprehensive analysis of the multi-wavelength data for this object. During the FXT and Swift/XRT follow-up, the source remained X-ray active, with observed luminosities of $(3-9)\\times10^{43}$ erg s$^{-1}$, and its X-ray spectra were well described by power-law models with photon indices of $Γ\\sim1.5$. The optical spectrum of the host galaxy clearly reveals a broad-line active galactic nucleus (AGN) exhibiting significantly enhanced broad Balmer emission lines compared to an archival spectrum obtained four years earlier, thereby marking a changing-look transition from Type 1.8 to Type 1.5. Furthermore, long-term optical and mid-infrared light curves indicate that the nucleus underwent dramatic brightening around 2010 and has since shown substantial variability. Given the spatial coincidence and multi-wavelength behavior, we identify EP J062132.0+623837 as a changing-look AGN, initially detected by EP and subsequently confirmed to exhibit large-amplitude variability across multiple bands. This case study demonstrates the great potential of wide-field time-domain X-ray surveys for discovering changing-look AGNs, paving a new avenue for their systematic identification as a powerful complement to ongoing optical surveys.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Lin-Na Xu, Ning Jiang, Tinggui Wang et al. (2026), arXiv:2610.30959."
+  },
+  {
+    "id": "2610.30816",
+    "title": "A recurring changing state AGN discovered in the SAMI Galaxy Survey and SDSS",
+    "authors": [
+      "Scott M. Croom",
+      "Rebecca McElroy",
+      "Dougal Dobie",
+      "Thomas Dunn",
+      "Yasmeen Janschek",
+      "Tyler Klinger",
+      "Shaun Parasher",
+      "Mitchell Spanner",
+      "Oliver J. Thorp"
+    ],
+    "published": "2026-10-22",
+    "updated": "2026-10-22",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "agn",
+      "broad line",
+      "balmer",
+      "changing-look"
+    ],
+    "score": 23,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.30816",
+    "abstract": "We present a detailed analysis of the AGN in galaxy J085337.26+014303.6 at z=0.0582. A combination of SDSS and SAMI Galaxy Survey data shows that this object has gone through at least one full changing-look AGN cycle, from type 1.9 in 2001 to type 1 in 2015 and 2021, and then type 1.9 again in 2022. While the broad lines in this object show evidence of dust obscuration, detailed spectral analysis plus WISE photometry demonstrate that the changes in this object are related to a physical state change, not changing obscuration. In fact, the WISE light curve suggests that this object may have briefly returned to a type 1.9 state in 2020. In the optical, the host galaxy dominates the light (e.g. only ~10 per cent contribution from the AGN at 4000 Angstoms within a central aperture), even in the high state. In contrast, the brightest WISE W2-band measurements place the AGN at a similar luminosity to the entire host galaxy. The broad Balmer lines show evidence of multiple components, with a weak very-broad component (FWHM=5000-6000 km/s) visible in the low type 1.9 state, and a stronger broad component of FWHM~2000 km/s dominating in the high type 1 state. We propose that this is caused by two spatially distinct regions within the broad line region.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Scott M. Croom, Rebecca McElroy, Dougal Dobie et al. (2026), arXiv:2610.30816."
+  },
+  {
+    "id": "2610.31416",
+    "title": "A Catalog of Spectral Properties for DESI DR1 Quasars",
+    "authors": [
+      "Qiaoya Wu",
+      "Yue Shen"
+    ],
+    "published": "2026-10-22",
+    "updated": "2026-10-22",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "quasar"
+    ],
+    "score": 11,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.31416",
+    "abstract": "The Dark Energy Spectroscopic Instrument (DESI) is carrying out a five-year spectroscopic survey designed to map the large-scale structure of the Universe and obtain spectra for millions of galaxies and quasars over a wide redshift range. We present a value-added catalog of spectral properties for 1,717,774 unique quasars (1,774,723 spectra) in the DESI Data Release 1. We perform a uniform spectral decomposition of the quasar continuum, host galaxy emission (at $z<1$), and \\FeII\\ emission, and measure the line properties of major broad and narrow emission lines from Ly$α$ to H$α$ covered by DESI spectra. We also provide single-epoch black hole mass estimates (from H$β$, \\MgII, and \\CIV), bolometric luminosities, and Eddington ratios for these quasars. We provide systemic redshifts that account for the intrinsic velocity shifts of individual lines; they agree with the DESI pipeline redshifts to within 500~km s$^{-1}$ for 88.6\\% of the sample, and are most useful at $z>1$ where the pipeline redshift is heavily constrained by blueshifted high-ionization lines. We also provide local fits to several optical coronal lines, including \\NeV~$\\lambda3426$, [\\ion{Fe}{7}]~$\\lambda5722$, [\\ion{Fe}{7}]~$\\lambda6088$, and [\\ion{Fe}{11}]~$\\lambda7893$. We show that several emission-line ratios, including those involving coronal lines, vary systematically with Eddington ratio. The catalog is intended as a community resource for studies of quasar demographics, black hole accretion, emission-line physics, and the connection between the broad-, coronal-, and narrow-line regions.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Qiaoya Wu, Yue Shen (2026), arXiv:2610.31416."
+  },
+  {
+    "id": "2610.30570",
+    "title": "Rest-frame Ultraviolet Variability of Quasars in the Cosmic Himalayas Overdensity",
+    "authors": [
+      "Jiaqi Lin",
+      "Zhenya Zheng",
+      "Bin Ma",
+      "Yongming Liang",
+      "Lin Long"
+    ],
+    "published": "2026-10-22",
+    "updated": "2026-10-22",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "agn",
+      "quasar"
+    ],
+    "score": 11,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.30570",
+    "abstract": "Some high-redshift overdensities show an enhanced incidence of AGNs, suggesting that large-scale environment may influence supermassive black hole fuelling and triggering. Whether environment also affects AGN variability remains unclear.Using the Cosmic Himalayas (CH), an extreme concentration of 11 type 1 quasars at z=2.16-2.20, we investigate possible offsets in rest-frame ultraviolet variability relative to quasars with comparable redshifts, black hole masses, and Eddington ratios.We construct a parent sample of 1,138 Stripe 82 quasars at 2.11<=z<=2.25 and combine photometry from the SDSS, the PS1, and the ZTF to build observer-frame g- and r-band light curves spanning up to 27~yr. We compare DRW parameters and ensemble structure functions (SFs) with control pseudo-samples matched in black hole mass and Eddington ratio, and use injection--recovery simulations to forecast the detectability of a CH-like offset.The CH quasars show a tendency toward shorter DRW damping timescales (median offsets of -0.32 and -0.13 dex in g and r) and slightly higher asymptotic amplitudes. None of the four DRW comparisons is statistically significant, including the largest offset in the g-band damping timescale (p=0.16). Ensemble SFs generally exceed matched-control medians, although 18 of 19 lag bins per band remain within the 95% pointwise envelopes. Assuming a true uniform -0.32 dex g-band timescale offset, injection--recovery simulations predict an 80% probability of nominal 3sigma detection with approximately 60 quasars of comparable variability scatter and data quality.If confirmed, the tentative variability offsets may suggest that large-scale environment influences accretion-flow variability beyond its potential role in quasar triggering. Larger samples with higher-precision light curves, such as those expected from the LSST, are required to test this possibility.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Jiaqi Lin, Zhenya Zheng, Bin Ma et al. (2026), arXiv:2610.30570."
+  },
+  {
+    "id": "2610.30772",
+    "title": "Lomb-Scargle Recovery of Periodic Binary Signals across Black Hole Mass and Cadence",
+    "authors": [
+      "Karan Akbari",
+      "Sayantan Bhattacharya"
+    ],
+    "published": "2026-10-22",
+    "updated": "2026-10-22",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA",
+      "astro-ph.HE",
+      "astro-ph.IM"
+    ],
+    "topic": "agn",
+    "tags": [
+      "agn",
+      "quasar"
+    ],
+    "score": 10,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.30772",
+    "abstract": "Searches for periodic supermassive black hole binaries in quasar light curves rely on recovery fractions, the share of injected signals detected, which forecasts use as detection efficiencies. Lin, Charisi, & Haiman (2026) measured them for the Lomb-Scargle periodogram on damped-random-walk light curves matched to 12,400 bright, high-mass Palomar Transient Factory (PTF) quasars with Sloan Digital Sky Survey Data Release 7 (DR7) masses. To test them over four decades of mass, we inject their sinusoidal and sawtooth signals into light curves of mergers in the TNG100-1 cosmological simulation, with magnitudes drawn from DR7 quasars of similar mass (extrapolated at low mass). We apply their threshold in each frequency bin, set by $10^5$ noise-only light curves per binary, on observed PTF cadences, one Stripe 82 cadence and an LSST-like cadence (Legacy Survey of Space and Time). At fixed absolute magnitude $M_i=-23$, sinusoid recovery falls toward high mass, and with DR7 magnitudes it climbs above about $10^8\\,M_\\odot$, so the magnitude assignment sets the sign of the trend. Above $10^8\\,M_\\odot$, where their sample lies, PTF sinusoid recovery is 39.8 against their 44.7 per cent. At LSST-like cadence sinusoid recovery is 76.9 per cent, about three times their 22.6 per cent, for reasons mostly unidentified. Denser sampling of the same PTF baselines did not lower recovery in any test. Even at LSST-like cadence we miss most sawtooth signals above $10^8\\,M_\\odot$. We tabulate recovery per 0.5-dex mass bin and cadence, with low-mass values likely too high for a deeper survey.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Karan Akbari, Sayantan Bhattacharya (2026), arXiv:2610.30772."
+  },
+  {
+    "id": "2610.31484",
+    "title": "Prompt Jet Launching and Delayed Thermal Disk in Tidal Disruption Event for Prolonged Activity GRB 220706A",
+    "authors": [
+      "Yuri Sato",
+      "Rin Oikawa"
+    ],
+    "published": "2026-10-22",
+    "updated": "2026-10-22",
+    "category": "astro-ph.HE",
+    "categories": [
+      "astro-ph.HE"
+    ],
+    "topic": "agn",
+    "tags": [
+      "agn",
+      "accretion disk"
+    ],
+    "score": 9,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.31484",
+    "abstract": "GRB 220706A exhibits X-ray flaring activity extending to ~51 days after the trigger, along with a luminous optical thermal component emerging on a timescale of ~10^6 s. Such prolonged central-engine activity could be powered by a collapsar fed by an extended stellar envelope. However, a relativistic jet may struggle to break out of the extended envelope. These challenges motivate a tidal disruption event (TDE), although explaining both the early relativistic jet and the luminous late optical thermal emission within one TDE framework remains difficult. We investigate a TDE scenario in which shocks between stellar debris streams drive the early inflow of some debris, potentially carrying preexisting fossil magnetic flux toward the black hole (BH) and powering an initial relativistic jet via the Blandford-Znajek mechanism. The remaining debris circularizes into an accretion disk, whose thermal emission accounts for the late optical thermal component. For GRB 220706A, the optical timescale, luminosity, and color temperature are consistent with disruption of a blue supergiant (M_*~50M_{sun}, R_*~20~R_{sun}) by a BH of mass M_{BH}~10^5 M_{sun}, assuming that the accretion disk forms on a timescale comparable to the orbital period of the most tightly bound stellar debris. A magnetic field strength of ~10^5 G is required near the BH before disruption to power a jet capable of producing the inferred gamma-ray luminosity. Continued fallback may sustain central-engine activity beyond the observed X-ray flaring episode, making future X-ray monitoring a test of this scenario.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Yuri Sato, Rin Oikawa (2026), arXiv:2610.31484."
+  },
+  {
+    "id": "2610.31545",
+    "title": "SpecLess: A Multi Survey Python Package for Machine Learning Classification of Galaxy Morphology and Activity from Photometry",
+    "authors": [
+      "Uzay Aydin",
+      "Mehmet Tanriver"
+    ],
+    "published": "2026-10-22",
+    "updated": "2026-10-22",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "seyfert"
+    ],
+    "score": 8,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.31545",
+    "abstract": "Broad band photometry enables scalable galaxy classification without spectroscopy at inference time, yet strong within survey performance may not transfer when the same galaxies are measured by another survey. We present SpecLess, an open source Python package implementing two photometric classification tasks: high confidence Galaxy Zoo 1 elliptical and spiral morphologies, and four SDSS spectroscopic activity reference classes (starforming, starburst, Seyfert, and LINER). Using SDSS+AllWISE, KiDS+VIKING, and DESI Legacy Imaging Surveys photometry, survey specific XGBoost classifiers achieve held out macro F1 scores of 0.9332 (SDSS; 35,554 galaxies) and 0.9237 (KiDS; 3,269) for morphology, and 0.7637 (SDSS; 16,931) and 0.7398 (DESI; 11,975) for activity. Starforming and starburst references are recovered more effectively than Seyfert and LINER, while feature ablations reveal complementary contributions from optical and mid infrared photometry. We quantify catalogue dependence using separately trained common feature models evaluated on matched galaxies with identical labels and data partitions. Relative to target trained models, macro F1 deficits are 0.0153 (SDSS to KiDS) and 0.0354 (KiDS to SDSS) for morphology (12,301 galaxies; 20 splits), and 0.0660 (SDSS to DESI) and 0.0406 (DESI to SDSS) for activity (11,975 test galaxies). Colour only refits, additive corrections, and optical infrared substitutions reveal direction dependent sensitivity without consistently recovering target trained performance. SpecLess v0.3.0 distributes four pretrained, survey specific classifiers through a unified Python interface. The package provides a reproducible baseline for photometric galaxy classification across multiple surveys while establishing an extensible, open source foundation for future developments in classification methods and photometric catalogue support.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Uzay Aydin, Mehmet Tanriver (2026), arXiv:2610.31545."
+  },
+  {
+    "id": "2610.31300",
+    "title": "Breaking the symmetry: X-ray polarization from a spreading layer on a tilted weakly magnetized neutron star",
+    "authors": [
+      "Anna Bobrikova",
+      "Alexandra Veledina",
+      "Juri Poutanen",
+      "Vladislav Loktev"
+    ],
+    "published": "2026-10-22",
+    "updated": "2026-10-22",
+    "category": "astro-ph.HE",
+    "categories": [
+      "astro-ph.HE"
+    ],
+    "topic": "agn",
+    "tags": [
+      "agn"
+    ],
+    "score": 6,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.31300",
+    "abstract": "When modeling the emission from an X-ray binary system, we often assume that the rotational axis of the compact object is aligned with that of the binary system. While often considered irrelevant for spectroscopic observations, the orientation of the binary system is crucial for polarimetric properties. With the recent advent of X-ray polarimetric observations enabled by the Imaging X-ray Polarimetry Explorer (IXPE), indications of a possible misalignment of the neutron star rotational axis with respect to the binary axis have been reported. Following these indications, we present an analytical model for the polarimetric properties of emission arising from a spreading layer on an inclined weakly magnetized neutron star (WMNS). We discuss the expected polarimetric properties and study the impact of geometrical parameters of the system on the polarization of WMNS emission. We compare our results with those for aligned systems. Finally, we discuss applications of the model to recent and upcoming X-ray polarimetric observations with IXPE and mention the suggestions for further development of the model.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Anna Bobrikova, Alexandra Veledina, Juri Poutanen et al. (2026), arXiv:2610.31300."
+  },
+  {
+    "id": "2610.30285",
+    "title": "The black hole-galaxy correlations of the 12 micron local AGN sample: a NuSTAR perspective",
+    "authors": [
+      "M. Gliozzi",
+      "L. Spinoglio",
+      "J. A. Fernandez-Ontiveros",
+      "M. A. Malkan",
+      "J. K. Williams",
+      "M. Young. A. D. Oxley",
+      "S. Satyapal"
+    ],
+    "published": "2026-10-21",
+    "updated": "2026-10-21",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA",
+      "astro-ph.CO",
+      "astro-ph.HE"
+    ],
+    "topic": "agn",
+    "tags": [
+      "active galactic",
+      "agn",
+      "seyfert",
+      "broad-line",
+      "reverberation"
+    ],
+    "score": 31,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.30285",
+    "abstract": "The M-sigma correlation of inactive galaxies plays a crucial role in estimating the black hole mass (MBH) in active galactic nuclei (AGN): 1) it is used to calibrate the reverberation mapping (RM) method; 2) the RM is the basis of the single epoch method, the most-used technique to determine MBH of broad-line AGN; and 3) in narrow-line AGN, MBH is often directly inferred from the M-sigma correlation. The main goal of this work is to test whether the M-sigma relation calibrated from inactive galaxies can be reliably applied to a local AGN population spanning Seyfert 1, Seyfert 2, and hidden broad-line region galaxies (HBLRs), and whether the resulting AGN relation has sufficient predictive power to be used as an indirect MBH estimator. To investigate this hypothesis, we used the 12 micron AGN sample, a local representative and largely unbiased sample. Since a substantial fraction of this sample has good-quality NuSTAR data, we estimated their MBH with the X-ray scaling method, which works for any AGN accreting at moderate or high level. We find that the M-sigma correlation of the 12 micron AGN sample is different from the one obtained with inactive galaxies and has a substantial scatter. Therefore, its predictive power for MBH estimates is fairly limited. We also find that the MBH-Mgal correlation based on the 12 micron AGN sample is consistent with the analogous correlation obtained from a large sample of nearby type 1 AGN and inconsistent with that of inactive galaxies. Finally, we find suggestive evidence that Seyfert 1 and HBLRs have similar and systematically higher Eddington ratios than Seyfert 2 galaxies.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "M. Gliozzi, L. Spinoglio, J. A. Fernandez-Ontiveros et al. (2026), arXiv:2610.30285."
+  },
+  {
+    "id": "2610.29173",
+    "title": "Unveiling Accretion-Disk Reverberation Beneath BLR Contamination with TILDE",
+    "authors": [
+      "Sungho Jung",
+      "Jong-Hak Woo"
+    ],
+    "published": "2026-10-21",
+    "updated": "2026-10-21",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "active galactic",
+      "agn",
+      "broad line",
+      "reverberation",
+      "accretion disk"
+    ],
+    "score": 29,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.29173",
+    "abstract": "We present a Bayesian framework, Two-stage Inference for Light curve DEcomposition (TILDE), for mapping the accretion disk and the broad line region (BLR) from active galactic nuclei (AGN) multi-band light curves. By inferring delayed BLR contamination from the underlying disk variability, TILDE provides the delay measurements of the disk as well as the BLR. We validate TILDE using synthetic data, finding that TILDE recovers the known time delays of the disk and BLR. By applying TILDE to the Seoul National University AGN Monitoring Project sample, we find that the inferred BLR light curves match the observed H$β$ emission light curves, providing consistent BLR lags compared to the reported H$β$ lags. Using the lag spectrum, effectively corrected for the BLR contamination, we find that the disk size is broadly consistent with the standard thin-disk model, suggesting that BLR contamination can significantly bias the disk size derived from the cross-correlation analysis of the broad-band photometry. These results demonstrate that the new inference method is a powerful tool for determining both disk and BLR sizes from broad-band photometry in the era of time-domain surveys.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Sungho Jung, Jong-Hak Woo (2026), arXiv:2610.29173."
+  },
+  {
+    "id": "2610.29137",
+    "title": "NGC 3227 Blinks: An Extreme Changing-Look Event in a Seyfert Galaxy",
+    "authors": [
+      "Kaiwen Zhang",
+      "Michael S. Brotherton",
+      "Pu Du",
+      "Dong-Wei Bao",
+      "Bi-Xuan Zhao",
+      "Feng-na Fang",
+      "Yan-Rong Li",
+      "Chen Hu",
+      "Ming Xiao",
+      "Keith Horne",
+      "Gerard A. Kriss",
+      "Daniel Proga",
+      "Jian-Min Wang"
+    ],
+    "published": "2026-10-21",
+    "updated": "2026-10-21",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA",
+      "astro-ph.HE"
+    ],
+    "topic": "agn",
+    "tags": [
+      "seyfert",
+      "broad-line",
+      "reverberation",
+      "changing-look"
+    ],
+    "score": 28,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.29137",
+    "abstract": "We report a rapid optical changing-look event in the Seyfert galaxy NGC 3227: the optical continuum faded by more than 70% and broad H-beta emission nearly disappeared within weeks, before recovering within two months. Damped random walk simulations calibrated to the source's normal variability show that such a decline is unlikely for stochastic accretion fluctuations (p = 0.002). Simultaneous Swift monitoring reveals X-ray spectral hardening, pointing to enhanced line-of-sight absorption. During the dim state, reverberation mapping yields a persistent 6-8 day lag between the continuum and broad H-beta, showing that the broad-line region continued to reverberate and placing the obscurer interior to the broad-line region. Photoionization calculations require a fully ionized, Compton-thick column with N_H ~ 1.5 x 10^24 cm^-2 to reproduce the optical continuum suppression. Together, these observations demonstrate that compact, high-column-density obscurers interior to the broad-line region can produce extreme optical changing-look behavior on week timescales.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Kaiwen Zhang, Michael S. Brotherton, Pu Du et al. (2026), arXiv:2610.29137."
+  },
+  {
+    "id": "2610.30286",
+    "title": "Nuclear Millimeter Continuum Emission in Radio-Quiet Active Galactic Nuclei: an ALMA Spectral and Variability Study",
+    "authors": [
+      "Sophie M. Venselaar",
+      "Claudio Ricci",
+      "Yoshiyuki Inoue",
+      "Chin-Shin Chang",
+      "Akihiro Doi",
+      "Noemi Barnier",
+      "Taiki Kawamuro",
+      "Susanne Aalto",
+      "Momoka Hamamoto",
+      "Elena Shablovinskaya",
+      "Ezequiel Treister"
+    ],
+    "published": "2026-10-21",
+    "updated": "2026-10-21",
+    "category": "astro-ph.HE",
+    "categories": [
+      "astro-ph.HE",
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "active galactic",
+      "agn"
+    ],
+    "score": 11,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.30286",
+    "abstract": "Unresolved millimeter (mm) emission is observed in radio-quiet (RQ) Active Galactic Nuclei (AGN), but its physical origin remains debated. Self-absorbed synchrotron emission from the compact X-ray corona is one of the leading candidates. Previous support for this coronal synchrotron origin has mainly been based on variability and spectral indices in a few RQ AGN, with a lack of (quasi-)simultaneous broadband data for larger samples. We present Atacama Large Millimeter/sub-millimeter Array (ALMA) observations of nine nearby ($z \\sim 0.008-0.064$) RQ AGN, obtained quasi-simultaneously at 100, 145, and 233 GHz. Based on power-law fits to the spectral energy distributions, we measure millimeter spectral indices ranging from $-0.05^{+0.09}_{-0.09}$ to $0.88^{+0.12}_{-0.11}$. Furthermore, across two 100 GHz observing epochs per source, separated by $4-11$ days, we detect flux density variability of $30-56$% (>$3σ$ significance level) in three out of nine sources. Spectral slopes alone are insufficient to constrain the origin of the millimeter emission; however, the observed short-timescale variability and inferred brightness temperature values are consistent with a non-thermal emission mechanism arising from a compact emitting region with a size of $R_{\\rm mm}< 10^3 - 10^4 R_{\\rm g}$, such as the corona or a compact jet. Furthermore, we find a clear correlation between the 100/233 GHz and X-ray flux in our sample, and establish a new linear correlation between 145 GHz and X-ray emission.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Sophie M. Venselaar, Claudio Ricci, Yoshiyuki Inoue et al. (2026), arXiv:2610.30286."
+  },
+  {
+    "id": "2610.30309",
+    "title": "The PAU Survey: Active galactic nucleus galaxies in galaxy pairs",
+    "authors": [
+      "F. Duplancic",
+      "M. Siudek",
+      "D. Navarro-Gironés",
+      "E. J. Gonzalez",
+      "F. Rodriguez",
+      "S. Alonso",
+      "I. V. Daza-Perilla",
+      "D. G. Lambas",
+      "E. Gaztañaga",
+      "A. L. O'Mill",
+      "M. Eriksen",
+      "J. Carretero",
+      "R. Casas",
+      "F. J. Castander",
+      "J. García-Bellido",
+      "H. Hildebrandt",
+      "M. Mezcua",
+      "R. Miquel",
+      "C. Padilla",
+      "P. Renard",
+      "E. Sánchez",
+      "S. Serrano",
+      "I. Sevilla-Noarbe",
+      "P. Tallada-Crespí"
+    ],
+    "published": "2026-10-21",
+    "updated": "2026-10-21",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA",
+      "astro-ph.CO"
+    ],
+    "topic": "agn",
+    "tags": [
+      "active galactic",
+      "agn"
+    ],
+    "score": 10,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.30309",
+    "abstract": "Aims. Leveraging the high-precision photometric redshifts of the Physics of the Accelerating Universe Survey (PAUS), we aim to investigate the connection between active galactic nuclei (AGNs) and galaxy pairs up to redshifts of $\\sim1.0$. Methods. We identified 16,824 galaxy pairs with projected separations of $r_p < 100$ kpc and radial-velocity differences of $ΔV < 3500$ km s$^{-1}$. AGNs were selected by cross-matching PAUS galaxies with multi-wavelength AGN catalogues, yielding 270 AGNs in pairs out of a parent sample of 8,880 AGNs in PAUS. We constructed control samples of isolated AGNs; non-AGNs in pairs; and isolated non-AGNs matched in redshift, absolute magnitude, and environment. Results. Active galactic nuclei in pairs show progressively redder rest-frame colours with increasing redshift, particularly at redshifts of $z\\gtrsim 0.5$, whereas isolated AGNs and non-AGNs in pairs show no significant colour evolution and remain at $\\mathrm{M_g-M_r}\\sim0.65$. Pairs hosting AGNs are also preferentially morphologically disturbed interacting systems found at smaller projected separations and velocity offsets, consistent with more dynamically advanced interactions. Conclusions. These results provide evidence of a redshift-dependent link between galaxy interactions and AGN activity, suggesting that interactions play an increasingly important role in triggering nuclear activity at intermediate redshifts. This study highlights the unique capability of PAUS to probe AGN-galaxy interaction connections beyond the local Universe with unprecedented statistical power.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "F. Duplancic, M. Siudek, D. Navarro-Gironés et al. (2026), arXiv:2610.30309."
+  },
+  {
+    "id": "2610.29376",
+    "title": "Lasting mEMRIs: Signatures of Multiple Black Hole Extreme Mass Ratio Inspirals from AGN discs",
+    "authors": [
+      "Jordan W. N. Moncrieff",
+      "Evgeni Grishin",
+      "Fiona H. Panther",
+      "Alessandro A. Trani"
+    ],
+    "published": "2026-10-21",
+    "updated": "2026-10-21",
+    "category": "astro-ph.HE",
+    "categories": [
+      "astro-ph.HE",
+      "astro-ph.GA",
+      "gr-qc"
+    ],
+    "topic": "agn",
+    "tags": [
+      "active galactic",
+      "agn"
+    ],
+    "score": 10,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.29376",
+    "abstract": "Encounters of stellar-mass black holes (sBH) in active galactic nuclei discs naturally form mean-motion resonances of sBH pairs. These mean-motion resonances can be broken close to the central supermassive black hole when gravitational-wave emission dominates over gas torques. We derive a simple condition that depends only on the sBH mass ratio and the resonance index for which a pair of sBH in a mean-motion resonance will remain intact and can be detectable as a multiple Extreme-Mass-Ratio-Inspirals (mEMRIs) in the LISA band. We present for the first time the gravitational-wave strain signatures of a pair of co-migrating sBH in mean-motion resonance, including additional gravitational-wave harmonics associated with orbital conjunctions of the individual EMRIs. The frequency evolution and the associated chirp mass is degenerate with isolated EMRIs of different masses. However, the mEMRI mass ratio is quantised by the resonance order and is larger than the true mass ratio. The degeneracy can be broken if the true sBH mass ratio can be inferred from individual strain amplitudes. We argue that mEMRIs should be common if disc driven EMRIs are to be detected by LISA, with $\\sim 10$ mEMRIs per year in the local universe ($z \\lesssim 0.2$), highlighting the need to model mEMRI systems in future LISA data analysis.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Jordan W. N. Moncrieff, Evgeni Grishin, Fiona H. Panther et al. (2026), arXiv:2610.29376."
+  },
+  {
+    "id": "2610.30095",
+    "title": "Modeling MAD Sgr A* flares and their dependence on spin",
+    "authors": [
+      "Eleni Antonopoulou",
+      "Antonios Nathanail",
+      "Yosuke Mizuno",
+      "Foivos Zanias"
+    ],
+    "published": "2026-10-21",
+    "updated": "2026-10-21",
+    "category": "astro-ph.HE",
+    "categories": [
+      "astro-ph.HE"
+    ],
+    "topic": "agn",
+    "tags": [
+      "agn",
+      "accretion disk"
+    ],
+    "score": 9,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.30095",
+    "abstract": "Aims: This study aims to place constraints on the spin of Sgr A* from recent flare observations. It models the flare kinematics in the vicinity of a supermassive black hole, evaluates their dependence on black hole spin, and assesses the correlation between the spin of the black hole and the astrometric observations in the Galactic center. Methods: Our study extends the work of Antonopoulou et al. 2025 to a range of black hole spins. A prominent flux eruption is identified in the simulation, and the evolution of the active region on the equatorial plane is tracked during the event. The flare model consists of a spherical hot spot ejected along the flux tube with a relativistic velocity. Results: In MAD simulations, the flux tube wraps around the jet funnel in the opposite direction to the black hole's spin. This dependence is imprinted on the flare trajectory and provides a strong correlation between the spin of the black and the flare kinematics. This analysis favors Kerr black holes, with a preference towards larger spin magnitude. Although prograde simulations show a consistent clockwise motion in the sky regardless of disk rotation, retrograde models require a clockwise accretion disk to account for the observations of July 22, 2018. Conclusions: A maximally rotating Kerr black hole is the most promising candidate for reproducing the observed flare trajectory in the vicinity of Sgr A*, illustrating a pass faction surpassing $90\\%$ among the investigated flare models. In particular, determining spin orientation within this model is linked to the rotation of the accretion disk. Assuming a counterclockwise accretion disk, a prograde black hole with $a\\geq1/2$ is able to reproduce the observed flare kinematics in the Galactic center. Conversely, assuming a clockwise rotation for the disk, the observations support both prograde and retrograde Kerr black holes with a large spin.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Eleni Antonopoulou, Antonios Nathanail, Yosuke Mizuno et al. (2026), arXiv:2610.30095."
+  },
+  {
+    "id": "2610.29887",
+    "title": "A Little Red Dot emerging from a nitrogen-rich UV-luminous galaxy with Very Massive Stars",
+    "authors": [
+      "Alberto Torralba",
+      "Jorryt Matthee",
+      "Rui Marques-Chaves",
+      "Fabrice Martins",
+      "Benjamín Navarrete",
+      "Gabriele Pezzulli",
+      "Edoardo Iani",
+      "Rohan P. Naidu",
+      "Gabriel Brammer",
+      "Claudia Di Cesare",
+      "Anne Hutter",
+      "Gauri Kotiwale",
+      "Ruari Mackenzie",
+      "Sara Mascia",
+      "Romain Meyer",
+      "Daniel Schaerer"
+    ],
+    "published": "2026-10-21",
+    "updated": "2026-10-21",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "balmer"
+    ],
+    "score": 9,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.29887",
+    "abstract": "JWST is revealing abundant populations of high-$z$ galaxies with unforeseen properties: UV-luminous galaxies with high nitrogen enrichment, populations of very massive stars (VMSs; $>100\\ M_\\odot$), and early forms of massive black hole growth such as the Little Red Dots (LRDs). Here we present all these phenomena appearing simultaneously in COLA1, a luminous ($M_{\\rm UV}=-21.3$) galaxy at $z=6.6$. New NIRSpec medium-resolution data reveal a blue UV continuum ($β_{\\rm UV}=-2.5$) with strong emission lines including NIV] $\\lambda1486$, stellar P Cygni profiles, and broad HeII $\\lambda1640$. We fit the UV with stellar population models, and find that the models including VMSs (limited to $300\\ M_\\odot$) are statistically preferred. The best-fit stellar population has $M_*\\approx10^8\\ M_\\odot$, and a young age of $2.4\\pm0.8$ Myr. The rest-optical shows a redder continuum ($β_{\\rm opt}=-1.1$) and broad Balmer lines with Balmer absorption akin to LRD spectra. By evolving the best-fit stellar population we find that the UV could dim by 1-2 mag in $\\sim5$ Myr, and hence this system would be observed as a typical V-shaped LRD. We measure a supersolar $\\rm log_{10}(N/O)=-0.07\\pm0.05$ and subsolar $\\rm log_{10}(C/O)=-0.64\\pm0.11$; therefore $\\rm log_{10}(N/C)=+0.58\\pm0.12$. The independent density-sensitive NIV] $λ\\lambda1483,1486$ and CIII] $λ\\lambda1906/1909$ ratios require two zones with $n_e\\gtrsim10^{6.5}$ cm$^{-3}$ and $n_e\\lesssim10^{3.5}$ cm$^{-3}$, respectively. We estimate $\\rm log_{10}(N/C)>1.3$ (2$σ$) for the dense zone, requiring extreme N/C enrichment mechanisms such as highly rotating $>100\\ M_\\odot$ VMSs, tidal disruption events, or supermassive stars. We speculate that runaway collisions of massive stars in a dense stellar cluster may have lead to the seeding of an intermediate-mass black hole resulting in the formation of an LRD.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Alberto Torralba, Jorryt Matthee, Rui Marques-Chaves et al. (2026), arXiv:2610.29887."
+  },
+  {
     "id": "2610.27806",
     "title": "Probing the Optical/UV Continuum Variability of Active Galactic Nuclei with the Damped Random Walk Model",
     "authors": [
