@@ -1,5 +1,111 @@
 [
   {
+    "id": "2610.32430",
+    "title": "Local Analogs of Little Red Dots: Clues to the X-ray Weakness",
+    "authors": [
+      "Shi-Jiang Chen",
+      "Jun-Xian Wang",
+      "Zhen-Ya Zheng",
+      "Ruqiu Lin",
+      "Luis C. Ho",
+      "Zhen-Yi Cai",
+      "Chang-Hao Chen",
+      "Zsofi Igo",
+      "Jia-Lai Kang",
+      "Ruancun Li",
+      "Teng Liu",
+      "Wenke Ren",
+      "Zhen-Bo Su"
+    ],
+    "published": "2026-10-23",
+    "updated": "2026-10-23",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA",
+      "astro-ph.CO",
+      "astro-ph.HE"
+    ],
+    "topic": "agn",
+    "tags": [
+      "agn",
+      "quasar",
+      "broad-line",
+      "balmer"
+    ],
+    "score": 20,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.32430",
+    "abstract": "A major question about JWST's little red dots (LRDs) at $z\\sim4-8$ is the origin of their apparent X-ray weakness. Even deep Chandra stacks yield only tentative detections or broad-band limits and cannot distinguish among super-Eddington accretion, intrinsic X-ray weakness, and Compton-thick (CT) obscuration. Local analogs offer a powerful complementary route. At $z\\sim0.3$, similarly luminous sources require $\\sim10^{3-4}$ less exposure for comparable signal-to-noise, suffer less source confusion, and directly probe the diagnostic rest-frame soft X-rays. Here we present a pilot Einstein Probe/FXT study of six \"local little red dots\" (LLRDs), V-shaped broad-line green pea galaxies selected as low-redshift counterparts of LRDs. These sources show X-ray diversity: \"X-normal\" LLRDs resemble type 1 AGNs in X-ray luminosity and optical variability, whereas the \"X-weak\" stack lies $\\sim0.5-0.7$ dex below standard unobscured-quasar scaling relations while remaining compatible with the representative LRD stack and 95% of published individual limits. The X-weak LLRDs also lack detected optical variability and have redder optical continua than X-normal LLRDs, making their V-shaped SEDs closer to those of high-redshift LRDs. The detection of the X-weak stack at $\\sim3.3σ$ with the soft-X-ray-sensitive EP-FXT provides rest-frame $\\sim2-3$ keV constraints difficult to reconcile with a typical unobscured super-Eddington model or a local-AGN-like CT geometry examined here, although modified variants remain possible. The simplest alternative is a mildly X-ray-weak corona ($Δα_{\\mathrm{ox}}\\sim-0.1$ to $-0.2$) with Compton-thin absorption ($N_{\\mathrm{H}}\\sim10^{22-23}$ cm$^{-2}$), consistent with the independent Balmer decrement/break diagnostics. Together with growing samples of local LRD analogs, our results offer a practical path for testing the physical nature of LRD X-ray weakness.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Shi-Jiang Chen, Jun-Xian Wang, Zhen-Ya Zheng et al. (2026), arXiv:2610.32430."
+  },
+  {
+    "id": "2610.32786",
+    "title": "Probing the star-forming environment of GRB across cosmic ages with high-resolution X-ray spectroscopy: From \\textit{XMM-Newton}/RGS and \\textit{XRISM}/Resolve to \\textit{NewAthena}/X-IFU",
+    "authors": [
+      "Luigi Piro",
+      "Aishwarya Linesh Thakur",
+      "Alfredo Luminari",
+      "Fabrizio Nicastro",
+      "Yair Krongold"
+    ],
+    "published": "2026-10-23",
+    "updated": "2026-10-23",
+    "category": "astro-ph.HE",
+    "categories": [
+      "astro-ph.HE"
+    ],
+    "topic": "agn",
+    "tags": [
+      "agn"
+    ],
+    "score": 6,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.32786",
+    "abstract": "Optical and infrared GRB absorption spectroscopy provides valuable insight into host-galaxy properties across cosmic time. However, the star-forming region embedding the progenitor, on scales $\\lesssim 100~\\mathrm{pc}$ is heavily ionized by the GRB emission, making X-ray spectroscopy the sole probe of its physical and chemical conditions. We characterize the GRB-embedding medium as a function of progenitor type and cosmic epoch via high-resolution X-ray spectroscopy. We extend our study to high-redshift GRBs to evaluate how effectively X-ray absorption signatures can distinguish between pristine, Pop~III-, and Pop~II-enriched environments. Using the time-dependent photoionization code \\texttt{TEPID}, we self-consistently calculate the ionization structure of the absorber, the energies and the strengths of the resulting absorption lines. We analyze a flux-selected sample of GRBs showing strong evidence for time-dependent photoionization, and search for predicted narrow features in the RGS spectra. We also assess the performance of \\textit{XRISM}/Resolve and \\textit{NewAthena}/X-IFU in detecting these features. In the single archival case with sufficient RGS signal-to-noise ratio (GRB~090618 at $z=0.54$), we find $\\approx 3σ$ combined evidence for narrow, highly ionized Fe~L absorption lines. For bright nearby GRBs, \\textit{XRISM}/Resolve can detect Fe~K absorption lines even in its current gate-valve-closed configuration ($\\sim 3$ expected events/yr). \\textit{NewAthena}/X-IFU will enable systematic population studies of GRB environments, delivering redshifts with precision comparable to optical/IR spectroscopy, unaffected by dust obscuration and Ly-$α$ forest absorption. Crucially, it will precisely diagnose the density, size, metallicity, and abundance patterns, ultimately revealing whether high-$z$ GRBs originate in pristine, Pop~III-, or Pop~II-enriched media.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Luigi Piro, Aishwarya Linesh Thakur, Alfredo Luminari et al. (2026), arXiv:2610.32786."
+  },
+  {
+    "id": "2610.32307",
+    "title": "Galaxy Luminosity Functions at z~7-10 from Four Years of JWST Observations",
+    "authors": [
+      "Bangzheng Sun",
+      "Haojing Yan"
+    ],
+    "published": "2026-10-23",
+    "updated": "2026-10-23",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "agn"
+    ],
+    "score": 6,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.32307",
+    "abstract": "We present galaxy luminosity functions at $z\\approx 7.4$ and 10 based on a comprehensive search for candidate galaxies at $6.4\\lesssim z\\lesssim11.3$ in JWST's public NIRCam data four years after its operation. Our work utilises nine fields covering $\\sim$1,045~arcmin$^2$ in total, including seven blank fields and two galaxy cluster fields. Using the dropout technique, we selected 3,733 dropouts from the F090W passband and 2,396 dropouts from the F115W passband, which constitute the largest samples of candidate galaxies at $z\\approx 7.4$ and $z\\approx 10$ to date. Among these objects, 338 F090W-dropouts and 99 F115W-dropouts already have secure redshifts from JWST NIRSpec spectroscopy over four years, which we use to form two large spectroscopic subsamples to assess the magnitude-dependent contamination rates of their parent dropout samples. Our luminosity functions are based on the results after statistically correcting for both incompleteness and contamination. We find that the luminosity function at $z\\approx 7.4$ can be well described by a conventional Schechter function but with a faint-end slope of $α=-1.70\\pm0.16$ that is significantly shallower than most of the previous studies at $z\\approx 7$--8. To verify this result, more imaging and spectroscopy at $\\sim$30~mag will be needed. The luminosity function at $z\\approx 10$, on the other hand, can hardly be fitted by a Schechter function but is more consistent with a power law in the form of $Φ(M)\\propto 10^{-0.4(β+1)M}$, with the best-fit slope of $β=-2.36\\pm0.16$. While such a behavior is largely driven by the high number densities at $M_{\\rm UV}\\lesssim -21.8$~mag, it is supported by the currently existing spectroscopic confirmations. Further spectroscopy at the bright end($\\lesssim 26$~mag) will be needed to strengthen this result.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Bangzheng Sun, Haojing Yan (2026), arXiv:2610.32307."
+  },
+  {
     "id": "2610.30959",
     "title": "EP J062132.0+623837: A Multi-wavelength Study of a Changing-look Active Galactic Nucleus Discovered by Einstein Probe",
     "authors": [
@@ -87,6 +193,76 @@
     "scientific_summary": "",
     "caveat": "",
     "reference": "Scott M. Croom, Rebecca McElroy, Dougal Dobie et al. (2026), arXiv:2610.30816."
+  },
+  {
+    "id": "2610.31753",
+    "title": "An Extra-nuclear Water Maser in NGC 1106 Likely Driven By An AGN Shock: Implications for Maser-based Black Hole Mass Measurements",
+    "authors": [
+      "Macon Magno",
+      "Emmanuel Momjian",
+      "Krista L. Smith",
+      "O. Ivy Wong",
+      "Travis C. Fischer",
+      "Michael J. Koss",
+      "Chenoa D. Tremblay"
+    ],
+    "published": "2026-10-22",
+    "updated": "2026-10-22",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA",
+      "astro-ph.HE"
+    ],
+    "topic": "agn",
+    "tags": [
+      "active galactic",
+      "agn",
+      "seyfert",
+      "accretion disk"
+    ],
+    "score": 23,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.31753",
+    "abstract": "We present Very Large Array A-configuration ($0.13$'') 22 GHz spectral-line and continuum observations of the Swift-BAT detected Seyfert 2 galaxy, NGC 1106, aimed at localizing a water maser line offset from the host systemic velocity by 541 km s$^{-1}$. The 22 GHz continuum emission reveals a 352 pc extended structure within the nucleus of NGC 1106, and we spatially resolve the water maser emission to a compact region $\\sim1$ kpc ($3.12$'') from the nucleus. Comparing our data with previous 22 GHz 1'' observations, we found that the water maser lies near the boundary of a radio extension aligned with the jet axis, likely arising from the interface between the active galactic nucleus (AGN) outflow and the host galaxy's ISM. To verify this, we compared the water maser in NGC 1106 to a known water maser in a star-forming region within the Milky Way, along with known extragalactic water masers associated with star formation and AGN driven outflows. Overall, we found that the maser position, velocity offset, flux density, and alignment with the jet axis are consistent with an origin at the interface between the AGN outflow and the host ISM. Our results have important implications for maser-based black hole mass measurements in which disk geometry is ambiguous. Since single-dish observations cannot spatially separate disk masers from outflow-driven masers, high-velocity maser features attributed to the accretion disk may also include contributions from kpc-scale shocks.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Macon Magno, Emmanuel Momjian, Krista L. Smith et al. (2026), arXiv:2610.31753."
+  },
+  {
+    "id": "2610.31751",
+    "title": "Non-Axisymmetric Pillar Structures due to Embedded Stars in AGN Accretion Discs",
+    "authors": [
+      "Jiamu Huang",
+      "Douglas N. C. Lin",
+      "Keith Horne"
+    ],
+    "published": "2026-10-22",
+    "updated": "2026-10-22",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "agn",
+      "broad line",
+      "reverberation"
+    ],
+    "score": 17,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.31751",
+    "abstract": "Gravitationally unstable outer regions of AGN discs may host in situ formation of massive stars whose heating produces localized vertical \"pillars\" on the disc surface, in the same region that emits the broad lines. Here we investigate the reverberation-mapping signatures that such pillars would produce. We compute velocity-delay maps $Ψ(λ, τ)$, time-evolving emission-line spectra, and continuum reverberation lag spectra for these structures. We model each pillar as a 2D Gaussian perturbation to the disc height under lamp-post irradiation and weight the line response with Cloudy photoionization grids covering the major BLR lines. We show H$α$, Mg II, and C IV as representative examples. A single pillar produces a localized hotspot in $Ψ$ and a clear \"S-wave\" pattern in the time-evolving spectrum that persists, though diluted, for $N \\sim 100$ pillars. Emission-line fluxes are suppressed in shadows behind the pillars, but when normalized by H$β$ (or by the local continuum) the line-to-H$β$ ratios move in opposite directions: Mg II/H$β$ rises while C IV/H$β$ drops. This contrast distinguishes pillars from purely kinematic features that would modulate all lines by similar factors. Across scans of the pillar shape and lamp-post height, the pillar models produce an optical continuum reverberation lag spectrum of the observed magnitude. The once-per-orbit modulation grows with $\\sin i$ from foreshortening, and at sufficiently high inclination the pillar's body geometrically self-occults its lamp-facing inner slope, adding a sharper near/far contrast. These signatures provide observational diagnostics for detecting in situ star formation in AGN discs through velocity-resolved reverberation mapping campaigns.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Jiamu Huang, Douglas N. C. Lin, Keith Horne (2026), arXiv:2610.31751."
   },
   {
     "id": "2610.31416",
@@ -271,6 +447,67 @@
     "scientific_summary": "",
     "caveat": "",
     "reference": "Anna Bobrikova, Alexandra Veledina, Juri Poutanen et al. (2026), arXiv:2610.31300."
+  },
+  {
+    "id": "2610.31990",
+    "title": "Tilt, warp, and dissipation flare in hydrodynamic disks around kicked compact objects",
+    "authors": [
+      "Yoonsoo Kim"
+    ],
+    "published": "2026-10-22",
+    "updated": "2026-10-22",
+    "category": "astro-ph.HE",
+    "categories": [
+      "astro-ph.HE",
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "active galactic"
+    ],
+    "score": 6,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.31990",
+    "abstract": "We study the dynamical response of a hydrodynamic disk to an impulsive kick imparted to a central massive object, focusing on the global properties of the material that remains gravitationally bound. We construct a simple analytic model and show that the bound material can acquire a significant tilt---or even a retrograde rotation---if the kick is directed close to the disk midplane. We perform 3D numerical simulations and show that (1) the bound material relaxes to a torus-like circularized flow of which total mass and angular momentum is in fair agreement with the analytic estimate, and (2) in spite of nonlinear hydrodynamic effects, a highly tilted or retrograde disk can be sufficiently formed. The simulations additionally reveal a transient warp in the kicked disk, suggesting a kick as a formation mechanism of tilted or warped disks around compact objects. About 10% of the kinetic energy the bound material acquired from the kick is converted to the internal energy, while the exact conversion efficiency depends on the kick angle and the initial surface mass density profile. The luminosity of this kick-driven dissipation flare can reach $\\sim 10^{43}\\,{\\rm erg\\,s^{-1}}$ for strong kicks ($V_{\\rm kick} \\sim 1000$km/s). We discuss the implications of our results for recoiling supermassive black holes, recoiled stellar-mass black holes in the disks of active galactic nuclei, and natal kicks on compact objects.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Yoonsoo Kim (2026), arXiv:2610.31990."
+  },
+  {
+    "id": "2610.31758",
+    "title": "Collapsars Are Not Heavy $r$-Process Factories",
+    "authors": [
+      "Ore Gottlieb",
+      "Danat Issa",
+      "Jonatan Jacquemin-Ide"
+    ],
+    "published": "2026-10-22",
+    "updated": "2026-10-22",
+    "category": "astro-ph.HE",
+    "categories": [
+      "astro-ph.HE",
+      "astro-ph.GA",
+      "astro-ph.SR"
+    ],
+    "topic": "agn",
+    "tags": [
+      "agn"
+    ],
+    "score": 6,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.31758",
+    "abstract": "Collapsar disks are proposed sources of $r$-process elements, but neutron-rich disk ejecta require gas to be both neutronized in the disk and ejected before accretion. The magnetic field that enables ejection also thickens the disk and accelerates the inflow, lowering both the density and the time available for weak processing. To compute the resulting neutronization, we evolve the electron fraction of the inflowing gas, adopting at each radius the temperature that maximizes the net neutronization rate for the local density and instantaneous composition. This yields a lower limit on $Y_{\\rm e}$ that is independent of the disk's thermal history. We adopt an optimistic unbinding radius of $R_{\\rm unb}=10\\,r_g$ for all magnetic fluxes capable of launching outflows. Combining this ejection condition with favorable assumptions of low black hole mass, ejection of midplane gas, and the upper end of the $γ$-ray burst (GRB) engine-power scale, which limits the accretion rate to $\\dot M_{\\rm BH}\\lesssim0.4\\,M_\\odot\\,{\\rm s}^{-1}$, gives a fiducial lower bound $Y_{\\rm e}\\gtrsim0.33$, above the characteristic $Y_{\\rm e}\\approx 0.25$ threshold for heavy $r$-process production. Stronger magnetic flux, toward which jet-launching engines evolve, raises the lower bound to $Y_{\\rm e}\\gtrsim0.49$. We conclude that collapsar disk outflows cannot supply the heavy $r$-process yields invoked for a dominant enrichment channel. Only engines with unusually high accretion rates, potentially including exceptionally luminous GRBs, such as GRB 221009A, and direct-horizon collapsars, may produce heavy $r$-process ejecta.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Ore Gottlieb, Danat Issa, Jonatan Jacquemin-Ide (2026), arXiv:2610.31758."
   },
   {
     "id": "2610.30285",
