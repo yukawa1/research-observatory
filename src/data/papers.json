@@ -1,5 +1,432 @@
 [
   {
+    "id": "2610.41594",
+    "title": "The Broad-Line Region Size-Luminosity Relation in AGN Constrained by the Viewing Angle with the FRADO Model",
+    "authors": [
+      "Junhee Myong",
+      "Jong-Hak Woo",
+      "Mohammad-Hassan Naddaf",
+      "Bożena Czerny",
+      "Jimin Kim"
+    ],
+    "published": "2026-10-30",
+    "updated": "2026-10-30",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "active galactic",
+      "agn",
+      "broad-line",
+      "reverberation"
+    ],
+    "score": 25,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.41594",
+    "abstract": "We investigate the H$β$ broad-line region (BLR) size-luminosity ($R_{\\rm BLR}$-$L_{5100}$) relation of active galactic nuclei (AGN) using a Bayesian viewing angle inference framework based on the Failed Radiatively Accelerated Dusty Outflow (FRADO) model. First, we update the FRADO model by introducing a phase factor to account for the anisotropic visibility of the illuminated cloud surface. Second, we construct a Bayesian framework to constrain the viewing angle by matching the FRADO-based $R_{\\rm BLR}$ to the measured H$β$ lags of 151 AGN from Wang & Woo (2024). We successfully reproduce the slope and intrinsic scatter of the observed $R_{\\rm BLR}$-$L_{5100}$ relation, finding that the inferred viewing angles are broadly consistent with the estimates from dynamical modeling of velocity-resolved reverberation data, albeit with substantial scatter. As the observed H$β$ time lag and line velocity depend on the viewing angle, the black hole mass ($M_{\\rm BH}$) calibrated from our work is typically larger than the reverberation-mapping estimates using an average virial factor. Our results provide a physically motivated interpretation of the $R_{\\rm BLR}$-$L_{5100}$ relation and the systematic uncertainties in reverberation and single-epoch $M_{\\rm BH}$ estimates.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Junhee Myong, Jong-Hak Woo, Mohammad-Hassan Naddaf et al. (2026), arXiv:2610.41594."
+  },
+  {
+    "id": "2610.41509",
+    "title": "Disk-Corona Energy Balance Evolves with Flux State in the Quasar PDS 456",
+    "authors": [
+      "Fida Fathima S S",
+      "Arijit Sar",
+      "Tathagata Saha",
+      "Ritaban Chatterjee"
+    ],
+    "published": "2026-10-30",
+    "updated": "2026-10-30",
+    "category": "astro-ph.HE",
+    "categories": [
+      "astro-ph.HE"
+    ],
+    "topic": "agn",
+    "tags": [
+      "quasar",
+      "accretion disk"
+    ],
+    "score": 12,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.41509",
+    "abstract": "We investigate the long-term X-ray spectral evolution of the highly luminous, radio-quiet quasar PDS 456 using AstroSat observations obtained in 2019 and 2021 together with archival XMM-Newton, NuSTAR and Suzaku observations spanning 2001-2024. The AstroSat observations provide valuable coverage following the bright flaring state observed in 2018, revealing that the source underwent a relatively quiescent phase in 2019 before re-brightening in 2021. During the AstroSat epochs, PDS 456 exhibits a harder-when-brighter spectral trend, whereas the long-term XMM-Newton, NuSTAR, and Suzaku observations confirm the overall softer-when-fainter behavior. This behavior is consistent with the presence of a very cool corona (~15 keV), possibly driven by a strong incident photon field for upscattering, as suggested by a prominent big blue bump. Broadband spectral modeling of simultaneous XMM-Newton and NuSTAR observations, complemented by the 2021 AstroSat flaring epoch and interpreted within the self-consistent physical framework reXcor, indicates that the disk-corona energy balance evolves with flux. In low-flux states, the spectrum is reflection-dominated, implying efficient illumination of the inner accretion disk by a compact corona. In contrast, high-flux states show an enhanced contribution from the warm Comptonizing region at larger coronal heights. The Fe Kα emission line displays a positive correlation with the 2-10 keV continuum flux at low to intermediate flux levels, while deviations at the highest flux states suggest a reduced relative reflection contribution as the warm corona becomes energetically dominant.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Fida Fathima S S, Arijit Sar, Tathagata Saha et al. (2026), arXiv:2610.41509."
+  },
+  {
+    "id": "2610.41489",
+    "title": "OASIS I: Spectroscopy of Mini-Quenched and Lulling Galaxies Constrains the Quiet Side of Bursty Star Formation at z > 4",
+    "authors": [
+      "Tobias J. Looser",
+      "Francesco D'Eugenio",
+      "William M. Baker",
+      "Santiago Arribas",
+      "Andrew J. Bunker",
+      "Stefano Carniani",
+      "Stéphane Charlot",
+      "Jacopo Chevallard",
+      "Mirko Curti",
+      "Qiao Duan",
+      "Kevin Hainline",
+      "Jakob M. Helton",
+      "Yuki Isobe",
+      "Benjamin D. Johnson",
+      "Pierluigi Rinaldi",
+      "Brant Robertson",
+      "Fengwu Sun",
+      "Sandro Tacchella",
+      "James A. A. Trussler",
+      "Hannah Übler",
+      "Joris Witstok",
+      "Zihao Wu"
+    ],
+    "published": "2026-10-30",
+    "updated": "2026-10-30",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "agn",
+      "balmer"
+    ],
+    "score": 12,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.41489",
+    "abstract": "JWST has revealed that star formation in early galaxies is bursty, including episodes of violent suppression, so-called mini-quenching. But these were largely serendipitous discoveries in samples of UV-bright, emission-line-dominated galaxies, so that the quiet side of the burst cycle has remained poorly explored. With the JWST Cycle 3 program OASIS (GO 5997), we searched for such galaxies deliberately, using deep 28-hour NIRSpec/PRISM spectroscopy across the full burst cycle at z>4. We identify three mini-quenched galaxies with log(M*/Msun) = 8.3-8.9 and no detectable Balmer emission, at least 1.2-1.7 dex below the star-forming main sequence (SFMS), five lulling galaxies with weak Balmer emission above the quenching threshold, and 17 nearly-main-sequence galaxies just below the SFMS. Finding them required spectroscopy: seven of our ten photometric candidates for suppressed (mini-quenched and lulling) galaxies turned out to be nearly-MS or above the SFMS, and photometric fits overestimate their current star-formation rates and cannot distinguish lulling from mini-quenched ones. The suppressed galaxies are common: five of the eight come from tiers not selected on star-formation state, where they make up 29% of the galaxies at z = 4-5.5 and log(M*/Msun) = 8-9.5, a number density of ~1.6x10^-3 Mpc^-3 dex^-1. Simulations predict them to be an order of magnitude rarer at these masses and to occur mainly at lower masses. The suppressed galaxies are also old: Balmer-break strength and stellar age both increase as galaxies fall further below the SFMS, with light-weighted ages of 5 Myr for galaxies above it, ~30 Myr for the lulling galaxies and above 100 Myr for the mini-quenched ones. They show little stellar reddening (E(B-V) < 0.2), consistent with depleted gas reservoirs. Suppressed phases at z>4 are therefore neither rare nor brief, but a common and lasting part of early galaxy growth.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Tobias J. Looser, Francesco D'Eugenio, William M. Baker et al. (2026), arXiv:2610.41489."
+  },
+  {
+    "id": "2610.41734",
+    "title": "Long-term variability of the 35-day cycle in Her X-1",
+    "authors": [
+      "Vladislav Revnivtsev",
+      "Konstantin Postnov",
+      "Ruediger Staubert",
+      "Sergey Antipin",
+      "Sergey Molkov",
+      "Nikolai Shakura"
+    ],
+    "published": "2026-10-30",
+    "updated": "2026-10-30",
+    "category": "astro-ph.HE",
+    "categories": [
+      "astro-ph.HE"
+    ],
+    "topic": "agn",
+    "tags": [
+      "agn",
+      "accretion disk"
+    ],
+    "score": 10,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.41734",
+    "abstract": "Her X-1 is an eclipsing X-ray binary system consisting of an accreting neutron star and an optical component HZ Her. In addition to the 1.24-s X-ray pulsations and the 1.7-d orbital period, the system also shows a 35-day X-ray variability related to the precessional motion of a tilted and twisted accretion disk around the neutron star. The long-term persistence of the 35-day X-ray variability suggests the presence of a stable clock mechanism, most likely free precession of the magnetized neutron star. We have studied the long-term behavior of the 35-day cycle of Her X-1 using all available CGRO/BATSE, RXTE/ASM, Swift/BAT, Fermi/GBM, MAXI data and archival turn-on moments of the 35-day cycle spanning more than 50 years. We have used a sliding-window averaged X-ray phase light curve and the classical O-C (observed minus calculated) diagram for individual 35-day turn-ons to inspect the long-term trends of the O-C diagram. The O-C diagram demonstrates two similar parabolic trends separated by an anomalous low state (ALS) of the source suggesting a secular decrease in the 35-d precession period with $\\dot P_\\text{35} =(-1.3\\pm0.2)\\times10^{-5} \\,\\mathrm{~s\\,s}^{-1}$ and $\\dot P_\\text{35} =(-4.7\\pm0.1)\\times10^{-5} \\,\\mathrm{~s\\,s}^{-1}$ before and after the ALS, respectively. We conclude that the decay of the 35-day period as inferred from the O-C analysis can be interpreted in terms of the direct relationship between the change of the precessional period of the accretion disk to the long-term decrease of the period of the free precessional neutron star - due to continued accumulation of accreted matter.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Vladislav Revnivtsev, Konstantin Postnov, Ruediger Staubert et al. (2026), arXiv:2610.41734."
+  },
+  {
+    "id": "2610.41584",
+    "title": "Co-evolution of AGN and Host Galaxies across Cosmic Time Using JWST data",
+    "authors": [
+      "Priyanka Jalan",
+      "Tomotsugu Goto",
+      "Tetsuya Hashimoto",
+      "Angel Rodriguez Barbosa",
+      "Chih-Teng Ling",
+      "Ece Kilerci",
+      "Terry Long Phan",
+      "Srivardini Ayyappan"
+    ],
+    "published": "2026-10-30",
+    "updated": "2026-10-30",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "active galactic",
+      "agn"
+    ],
+    "score": 10,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.41584",
+    "abstract": "Understanding the complex co-evolution of active galactic nuclei (AGN) and their host galaxies across cosmic time remains a fundamental challenge, particularly in identifying how the physical drivers of galaxy diversity evolve from the early Universe to the present day. To understand this, we use a multi-wavelength JWST catalog of 2,709 sources cross-matched from the SMILES and JWST Advanced Deep Extragalactic Survey (JADES) surveys, spanning lookback times from 0.8 to 12.9 Gyr ($0.05 <z <6$). Using Pearson correlation matrix, we find AGN luminosity ($L_{\\mathrm{AGN}}$) strongly correlates ($\\sim0.8$) with star formation rate (SFR) and dust luminosity ($L_{\\mathrm{dust}}$), weakly correlates ($\\sim0.5$) with stellar mass ($M_\\star$) and anti-correlates ($\\sim -0.4$) with star formation history (SFH) duration and stellar age (Age$_\\star$). However, the apparent anti-correlation observed between galaxy age and AGN luminosity is driven by cosmic time rather than by a direct physical connection. Using Principal Component Analysis (PCA), we find that galaxy diversity is fundamentally governed by two principal components: AGN and galaxy activity, and stellar age. At higher redshifts, AGN accretion, star formation, and dust emission are tightly synchronized, reflecting gas-rich conditions in the early Universe. In contrast, the present Universe exhibits a clear bimodal structure in host-dominated systems ($f_{\\mathrm{AGN}} \\leq 0.2$), separating quiescent and star-forming galaxies. Our results demonstrate that AGN luminosity is primarily governed by the host galaxy's current cold-gas supply, of which recent star formation is a close observational tracer, with galaxy mass setting the overall potential. This highlights a co-evolution scenario in which black hole growth and star formation are tightly linked, particularly at early cosmic epochs.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Priyanka Jalan, Tomotsugu Goto, Tetsuya Hashimoto et al. (2026), arXiv:2610.41584."
+  },
+  {
+    "id": "2610.41491",
+    "title": "OASIS III: Bursty star formation drives observed galaxy sizes at $z\\geq4$",
+    "authors": [
+      "William M. Baker",
+      "Tobias J. Looser",
+      "Francesco D'Eugenio",
+      "Andrew J. Bunker",
+      "Stefano Carniani",
+      "Stéphane Charlot",
+      "Jacopo Chevallard",
+      "Mirko Curti",
+      "A. Lola Danhaive",
+      "Qiao Duan",
+      "Kevin Hainline",
+      "Jakob M. Helton",
+      "Benjamin D. Johnson",
+      "Pierluigi Rinaldi",
+      "Brant Robertson",
+      "Fengwu Sun",
+      "Yang Sun",
+      "Sandro Tacchella",
+      "James A. A. Trussler",
+      "Zihao Wu"
+    ],
+    "published": "2026-10-30",
+    "updated": "2026-10-30",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA",
+      "astro-ph.CO"
+    ],
+    "topic": "agn",
+    "tags": [
+      "agn"
+    ],
+    "score": 7,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.41491",
+    "abstract": "We employ JWST/NIRSpec MSA PRISM spectroscopy together with NIRCam imaging to investigate the impact of star-formation variability on galaxy sizes for a representative sample of 51 galaxies at $z\\geq4$. The OASIS survey enables us to probe low-star-formation-rate (SFR) lulling and mini-quenched galaxies down to $\\log_{10}(M_\\star/M_\\odot)=8.3$ and $\\log_{10}(\\mathrm{SFR}/M_\\odot\\,\\mathrm{yr}^{-1})<-1.6$, i.e. more than one order of magnitude below the star-forming main sequence (MS). This enables us to probe objects that are often missed by shallower spectroscopic surveys, in addition to the MS and starburst systems, yielding an SFR- and mass-representative sample at high redshift. We derive galaxy half-light sizes using ForcePho, enabling us to resolve the highly compact nature of these sources, and we analyse their star-formation histories and interstellar medium (ISM) properties with the full-spectral-fitting code ppxf. We find a clear anti-correlation between burstiness, as traced by the ratio of the SFR from H$α$ compared to that from non-parametric spectral fitting averaged over 100 Myr, and galaxy UV/optical half-light radii as measured with ForcePho from a combination of well-sampled NIRCam photometry. Using partial correlation coefficients we show that the anti-correlation between burstiness (as traced by the SFR ratio) and size cannot simply be explained by secondary dependencies on stellar mass or redshift. We interpret this relation as the effect of central starbursts in SFR-rising (bursting) systems, where intense central star formation reduces measured galaxy half-light sizes. This burstiness then regulates galaxy sizes at high redshift. Should the same mechanism be present at $z>10$, this could explain the size bimodality seen in the UV luminous galaxies as simply stemming from a more fundamental relationship between burstiness and size.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "William M. Baker, Tobias J. Looser, Francesco D'Eugenio et al. (2026), arXiv:2610.41491."
+  },
+  {
+    "id": "2610.41681",
+    "title": "The Evolution of the Circumgalactic Medium after a starburst in DESI Post-Starburst Galaxies",
+    "authors": [
+      "Zoe Harvey",
+      "Sahyadri Krishna",
+      "Rita Tojeiro",
+      "Vivienne Wild",
+      "Jessica Nicole Aguilar",
+      "Steven Ahlen",
+      "Eric Armengaud",
+      "Florian Beutler",
+      "Davide Bianchi",
+      "David Brooks",
+      "Rebecca Canning",
+      "Aurelio Carnero Rosell",
+      "Todd Claybaugh",
+      "Andrei Cuceu",
+      "Axel de la Macorra",
+      "Peter Doel",
+      "Jaime E. Forero-Romero",
+      "Enrique Gaztañaga",
+      "Satya Gontcho A Gontcho",
+      "Gaston Gutierrez",
+      "ChangHoon Hahn",
+      "Hiram K. Herrera-Alcantar",
+      "Stephanie Juneau",
+      "Robert Kehoe",
+      "Martin Landriau",
+      "Laurent Le Guillou",
+      "Marc Manera",
+      "Aaron Meisner",
+      "Ramon Miquel",
+      "John Moustakas",
+      "Adam Myers",
+      "Seshadri Nadathur",
+      "Jeffrey A. Newman",
+      "Enrique Paillas",
+      "Will Percival",
+      "Ignasi Pérez-Ràfols",
+      "Francisco Prada",
+      "Corentin Ravoux",
+      "Graziano Rossi",
+      "Rossana Ruggeri",
+      "Eusebio Sanchez",
+      "Christoph Saulder",
+      "David Schlegel",
+      "Joseph Harry Silber",
+      "Małgorzata Siudek",
+      "Gregory Tarlé",
+      "Benjamin Alan Weaver",
+      "Hu Zou"
+    ],
+    "published": "2026-10-30",
+    "updated": "2026-10-30",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "quasar"
+    ],
+    "score": 6,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.41681",
+    "abstract": "We present a statistical study of the cool circumgalactic medium (CGM) around massive post-starburst galaxies, traced by Mg II $λ\\lambda2796,2803$ absorption in background quasar spectra from the Dark Energy Spectroscopic Instrument (DESI) Data Release 2. Cross-matching ~1.98 million quasar sightlines with luminous red galaxies at $0.4 < z < 0.76$ with stellar masses between $10.6 < \\log_{10}(M_*/\\mathrm{M}_\\odot) < 12$ yields ~143 million galaxy-quasar pairs, 50-60 times more per impact-parameter bin than our previous SDSS-based analysis. We stack the Mg II absorption as a function of projected separation and classify the foreground galaxies using mean-field independent component analysis (MFICA), further subdividing the post-starburst population into sub-samples ordered by time since the starburst. The mean Mg II equivalent width declines with impact parameter for every class. Post-starburst galaxies show the strongest absorption of any spectral class, reaching $W_{\\rm MgII} = 1.58 \\pm 0.32$ Å within 71 kpc, well above star-forming ($0.69 \\pm 0.15$ Å) and quiescent ($0.22 \\pm 0.05$ Å) galaxies of comparable stellar mass at the same projected separation. Within the post-starburst phase the absorption profile evolves systematically: the youngest systems show the highest, most centrally concentrated absorption and the steepest radial decline, whereas progressively older systems show weaker inner absorption and enhanced absorption at intermediate radii (~300-1000 kpc). Independent Bagpipes star-formation-history fitting confirms that this ordering corresponds to an ageing sequence. We interpret this evolution as the outward redistribution of cool gas expelled by feedback-driven winds, consistent with characteristic outflow velocities of a few hundred km s$^{-1}$, with a residual inner cool-gas reservoir persisting throughout the post-starburst phase.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Zoe Harvey, Sahyadri Krishna, Rita Tojeiro et al. (2026), arXiv:2610.41681."
+  },
+  {
+    "id": "2610.41490",
+    "title": "OASIS II: The Ionized Gas Traces Feedback-Driven Declines into the Quiet Side of Bursty Star Formation at z > 4",
+    "authors": [
+      "Tobias J. Looser",
+      "Francesco D'Eugenio",
+      "William M. Baker",
+      "Santiago Arribas",
+      "Andrew J. Bunker",
+      "Stefano Carniani",
+      "Stéphane Charlot",
+      "Jacopo Chevallard",
+      "Mirko Curti",
+      "Qiao Duan",
+      "Kevin Hainline",
+      "Jakob M. Helton",
+      "Yuki Isobe",
+      "Benjamin D. Johnson",
+      "Pierluigi Rinaldi",
+      "Brant Robertson",
+      "Fengwu Sun",
+      "Sandro Tacchella",
+      "James A. A. Trussler",
+      "Hannah Übler",
+      "Joris Witstok",
+      "Zihao Wu"
+    ],
+    "published": "2026-10-30",
+    "updated": "2026-10-30",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "balmer"
+    ],
+    "score": 6,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.41490",
+    "abstract": "Models of bursty star formation in low-mass (10^8-10^9.5 Msun) galaxies at z>4 differ most in the suppressed phases: what drives the decline, how fast star formation falls, and how long it stays low. OASIS Paper I showed that such quiet galaxies are common and old; here we measure how they got there and how their ionized gas responds. We compare Balmer-line star-formation rates (SFRs) with 100-Myr averages from the stellar continuum, in NIRSpec/PRISM spectra of 54 OASIS galaxies at z>4, including three mini-quenched galaxies below the quenching threshold and five lulling galaxies at least 0.6 dex below the star-forming main sequence (SFMS) but still star-forming. Galaxies above the SFMS rise and fade equally often, whereas those below it are mostly fading: the lulling galaxies formed little more than a tenth of their mass in the last 100 Myr, and their decline began tens to ~100 Myr before observation. Suppressed phases thus last of order 100 Myr, as long as or longer than in most simulations, whereas recovery is much faster: few galaxies below the SFMS are rising. The ionized gas tracks these changes in star formation. [OIII]/[OII] falls from galaxies above the SFMS to the lulling ones, even at fixed mass and after dust correction, and follows the recent change in SFR (SFR_10/SFR_100) more closely than the position relative to the SFMS: two rising galaxies below the SFMS are highly ionized. This is expected if fewer and softer ionizing photons than in strongly star-forming galaxies meet gas depleted by earlier star formation. Lulling galaxies show ISM conditions distinct from those of strongly star-forming galaxies. The declines are faster than passive gas exhaustion predicts, favoring feedback that expels the gas or keeps it from forming stars. Quiet phases are thus long, feedback-driven episodes, and the ionized gas traces where a galaxy is in its burst cycle.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Tobias J. Looser, Francesco D'Eugenio, William M. Baker et al. (2026), arXiv:2610.41490."
+  },
+  {
+    "id": "2610.41427",
+    "title": "Resolving the Complex Line-Locking Structure in Quasar J004613+010425 with VLT/X-shooter Spectroscopy",
+    "authors": [
+      "Chen Chen",
+      "Wei-Jian Lu",
+      "Ying-Ru Lin",
+      "Bo Ma"
+    ],
+    "published": "2026-10-30",
+    "updated": "2026-10-30",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "quasar"
+    ],
+    "score": 6,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.41427",
+    "abstract": "Line-locking (LL) signatures in quasar absorption-line systems provide direct observational evidence for radiatively driven outflows. We present a detailed investigation of LL phenomena in the quasar SDSS J004613.54+010425.7 ($z_{\\rm em} = 2.150$) using medium-resolution VLT/X-shooter spectra, as part of the TOLL project. Compared with previous studies based on Sloan Digital Sky Survey spectroscopy, the X-shooter data resolve the absorption complex into twelve narrow absorption line (NAL) components spanning $\\sim$$2700$ km/s in the C IV, N V, Si IV, and Ly$α$ transitions, a factor of $\\sim$2.4 more components than identified from lower resolution spectra. We detect fourteen distinct LL pairs across three ionic species, forming one of the largest line-locking webs known to date: three Si IV pairs connecting components (2, 10), (4, 11), and (5, 12); six N V pairs organized into four groups; and five C IV pairs organized into three groups. Monte Carlo simulations show that the probability of this twelve-component LL web arising by chance is $< 10^{-5}$. Photoionization modeling with Cloudy yields ionization parameters of $\\log U \\approx -2.4$ to $-0.6$ and total hydrogen column densities of $\\log N({\\rm H}) \\approx 18.4$-$20.6$ for the twelve components. A comparison of the properties of shadowed and shadowing clouds shows that ion column densities and ionization parameters typically agree within a factor of $\\sim$3, broadly supporting the standard radiative acceleration picture, although several outliers suggest that multi-ion locking and cloud-cloud interactions may also regulate LL stability. These results demonstrate that medium- and high-resolution spectroscopy is essential for resolving the full complexity of line-locked quasar outflows.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Chen Chen, Wei-Jian Lu, Ying-Ru Lin et al. (2026), arXiv:2610.41427."
+  },
+  {
+    "id": "2610.40796",
+    "title": "NGDEEP: Anchoring the $0.5 < z < 3.5$ Star-Forming Main Sequence at Low Stellar Masses with Ultradeep JWST/NIRISS WFSS",
+    "authors": [
+      "Claire Bolda",
+      "Casey Papovich",
+      "Lu Shen",
+      "Nikko J. Cleri",
+      "L. Y. Aaron Yung",
+      "Vicente Estrada-Carpenter",
+      "Steven L. Finkelstein",
+      "Anton M. Koekemoer",
+      "Nor Pirzkal",
+      "Stephen M. Wilkins"
+    ],
+    "published": "2026-10-29",
+    "updated": "2026-10-29",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "balmer"
+    ],
+    "score": 11,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.40796",
+    "abstract": "Here we present deep JWST/NIRISS wide-field slitless spectroscopy (WFSS) that covers $\\mathrm{Hα}$ and $\\mathrm{Hβ}$ for galaxies at $0.5 < z < 3.5$ in the NGDEEP survey. The NGDEEP NIRISS observations detect emission line fluxes from galaxies in the Hubble Ultra Deep Field to $\\mathrm{m_{F150W}} \\lesssim$ 28 mag, enabling studies of star-formation based on $\\mathrm{Hα}$ (or $\\mathrm{Hβ}$, if necessary) in low-mass galaxies with $\\mathrm{\\log(M_*/M_{\\odot}) \\gtrsim 7}$ at z = 0.5 and $\\mathrm{\\log(M_*/M_{\\odot}) \\gtrsim 8}$ at z = 3.5. For 284 NGDEEP galaxies with $>3σ$ detections of $\\mathrm{Hα}$ or $\\mathrm{Hβ}$, we determine dust-corrected star-formation rates, $\\mathrm{SFR_{Hα}}$, via flux measurements of these Balmer lines and compare them to the galaxies' stellar masses to investigate the properties of the star-forming main sequence (SFMS) on short, $\\sim10$~Myr timescales across three redshift bins. When we contrast the intrinsic scatter in the $\\mathrm{Hα}$--based SFMS to that of a SFMS comprised of UV--based SFRs, which trace star formation within the past $\\sim 100$~Myr, we find that the \\Ha--based SFMS's intrinsic scatter ($\\approx0.35-0.5$~dex over $0.5 < z < 3.5$) is $\\approx0.2-0.4$~dex higher than the UV--based SFMS's intrinsic scatter at $z < 2.5$. We argue that brief ($\\lesssim10$~Myr) bursts of star formation likely account for this disparity in SFMS scatter. Theoretical predictions from the FIRE simulations underestimate the scatter we observe in the $\\mathrm{Hα}$--based SFMS at $1.5 < z < 2.5$ and $\\mathrm{\\log(M_*/M_{\\odot}) < 9}$ by up to $\\approx0.25$~dex, which suggests that low-mass galaxies have burstier star-formation histories than expected on $\\lesssim10$~Myr timescales.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Claire Bolda, Casey Papovich, Lu Shen et al. (2026), arXiv:2610.40796."
+  },
+  {
     "id": "2610.40144",
     "title": "What kinds of strong star--black-hole encounters in AGN disks occur, and how often?",
     "authors": [
@@ -109,6 +536,109 @@
     "scientific_summary": "",
     "caveat": "",
     "reference": "Swati Ravi, James F. Steiner, Megan Masterson et al. (2026), arXiv:2610.39384."
+  },
+  {
+    "id": "2610.40846",
+    "title": "From Quantum Field Fluctuations to High-Redshift AGN: Semiclassical Origins of Halo Mass Function Constraints in the JWST Era",
+    "authors": [
+      "Elan Yogeswaren",
+      "Amir-Homayoon Najmi",
+      "Robert K Schaefer"
+    ],
+    "published": "2026-10-29",
+    "updated": "2026-10-29",
+    "category": "astro-ph.CO",
+    "categories": [
+      "astro-ph.CO",
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "active galactic",
+      "agn"
+    ],
+    "score": 10,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.40846",
+    "abstract": "We develop a continuous framework connecting quantum field fluctuations in the early Universe to the abundance and observable properties of galaxies and active galactic nuclei (AGN) at cosmic dawn. Beginning with quantum fields in curved Friedmann Lemaitre Robertson Walker spacetime, we follow inflationary vacuum fluctuations into the primordial curvature spectrum, linear matter power spectrum, mass variance $σ(MHz)$, mass peak height $ν(MHz)$, and the statistics of nonlinear halo formation. The Press-Schechter and Sheth-Tormen formalisms provide an analytic description of halo abundance and its dependence on peak rarity. A complementary high redshift halo mass function calibrated with the GUREFT simulations of Yung et al. (2024) provides a numerical description specifically constructed for the cosmic dawn regime probed by JWST. The comparison between these analytic and simulation calibrated prescriptions provides a direct measure of the sensitivity of predicted halo populations to the observations. We separate this cosmological supply of halos from the astrophysical and observational mappings that produce stars, ultraviolet luminosities, and active galactic nuclei. Controlled numerical experiments show that a percent level perturbation in the primordial fluctuation amplitude produces only a modest change in $σ$ and $ν$, but can strongly amplify the exponentially suppressed high $ν$ tail of the Halo Mass Function. This sensitivity increases toward high halo mass and high redshift, identifying rare cosmic dawn populations as potentially powerful probes of primordial statistics while simultaneously exposing the importance of uncertainties in halo abundance. High redshift AGN population statistics and the Ultraviolet Luminosity Function provide additional constraints on the primordial power spectrum and dynamics of primordial inflation theory.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Elan Yogeswaren, Amir-Homayoon Najmi, Robert K Schaefer (2026), arXiv:2610.40846."
+  },
+  {
+    "id": "2610.40788",
+    "title": "How to feed your dragon: the role of turbulence in AGN activity",
+    "authors": [
+      "Olga Borodina",
+      "Jake S. Bennett",
+      "Yueying Ni",
+      "Rainer Weinberger",
+      "Michaela Hirschmann",
+      "Boon Kiat Oh",
+      "Lars Hernquist"
+    ],
+    "published": "2026-10-29",
+    "updated": "2026-10-29",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "active galactic",
+      "agn"
+    ],
+    "score": 10,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.40788",
+    "abstract": "Active galactic nuclei (AGN) are thought to be important drivers of galaxy evolution. However, the way AGN jets couple their energy to the interstellar medium (ISM) remains poorly understood. Recent observations have revealed $\\sim$kpc-scale jets in galaxies of different morphological types. Here, we use idealized turbulent box simulations with accreting black holes to investigate how jet-ISM interactions and feedback shape the evolution of jets. We show that a turbulent ISM is a key ingredient in both jet launching and jet propagation. Without turbulence, jet feedback initially shuts off the cold gas supply to the black hole and the system enters a steady state with jet power $\\leq 10^{39}\\,\\mathrm{erg\\,s^{-1}}$ for a $10^{6}\\,\\mathrm{M}_\\odot$ black hole. In a turbulent medium, jets fill voids with hot diffuse material which the turbulence then carries away, replenishing the black hole's fuel supply. However, above a critical jet efficiency factor, the jet begins to significantly deplete its fuel supply and enters a self-limiting accretion regime. This critical factor depends on the ISM Mach number, with lower turbulence yielding a lower threshold. Moreover, while the jet power depends on the ambient gas density in the vicinity of the black hole, we find that, at fixed turbulent structure, the morphology and extent of jet propagation are largely insensitive to the average background density; turbulence in the ISM dominates over mean density in setting how far jets propagate, although denser media experience higher total energy injection and stronger heating.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Olga Borodina, Jake S. Bennett, Yueying Ni et al. (2026), arXiv:2610.40788."
+  },
+  {
+    "id": "2610.40787",
+    "title": "Cosmic merger rates and population evolution of binary black hole mergers in AGN disks",
+    "authors": [
+      "Maria Paola Vaccaro",
+      "Alessandro Trinca",
+      "Michela Mapelli",
+      "Lumen Boco",
+      "Raffaella Schneider",
+      "Rosa Valiante",
+      "Dominika Wylezalek"
+    ],
+    "published": "2026-10-29",
+    "updated": "2026-10-29",
+    "category": "astro-ph.HE",
+    "categories": [
+      "astro-ph.HE",
+      "astro-ph.CO"
+    ],
+    "topic": "agn",
+    "tags": [
+      "active galactic",
+      "agn"
+    ],
+    "score": 10,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.40787",
+    "abstract": "Active galactic nuclei (AGN) disks are promising sites for hierarchical binary black hole (BBH) mergers, which next-generation gravitational-wave detectors will probe out to high redshift. Predicting their contribution requires linking BBH evolution in AGN disks to the poorly constrained high-redshift evolution of active supermassive black holes (SMBHs). We introduce ARISE (AGN Rates and Intrinsic Stellar-BH Evolution), a framework that embeds semi-analytical models of BBH evolution in AGN disks into a cosmological description of the AGN number density, SMBH mass function, Eddington-ratio distribution, and nuclear metallicity. We consider a conservative AGN-abundance model anchored to observed luminosity functions, as well as Eddington-limited and super-Eddington scenarios based on the CAT cosmological model, compatible with JWST observations of high-redshift AGNs. The merger-rate density is set primarily by the disk viscosity parameter $α$: at $z = 0.2$, we find a rate of $12$--$37$ Gpc$^{-3}$ yr$^{-1}$ for $α= 0.01$ and $0.5$--$6$ Gpc$^{-3}$ yr$^{-1}$ for $α= 0.1$. The redshift evolution depends strongly on how SMBHs grow. The rate density peaks at $z \\simeq 1.8$, $3.3$, and $3.9$ ($1.5$, $3.6$, and $3.9$) for $α=0.01$ ($0.1$) in the conservative, Eddington-limited, and super-Eddington models, respectively, and in the super-Eddington model it stays nearly flat out to $z \\simeq 10$. For $α= 0.1$, AGN disks account for $\\sim 2$--$40\\%$ of the LVK-inferred merger rate, consistent with current upper limits from GW--AGN associations. For $α= 0.01$, they match or exceed it. The Einstein Telescope (ET) should detect $\\sim 10^{5}$ ($\\sim 10^{4}$) AGN-disk mergers per year for $α= 0.01$ ($0.1$). ET will test the AGN channel at redshifts where the AGN population models differ most strongly, providing independent constraints on the growth of early SMBHs.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Maria Paola Vaccaro, Alessandro Trinca, Michela Mapelli et al. (2026), arXiv:2610.40787."
   },
   {
     "id": "2610.40255",
@@ -252,6 +782,36 @@
     "scientific_summary": "",
     "caveat": "",
     "reference": "M. James Jee, Ho Seong Hwang, Dongwook Lim et al. (2026), arXiv:2610.39094."
+  },
+  {
+    "id": "2610.40937",
+    "title": "The Size-Mass Relation and Inside-Out Quenching of Massive Quiescent Galaxies at $2<z<3$ with JWST PRIMER and MINERVA",
+    "authors": [
+      "Vaidik Prasal",
+      "Yogesh Wadadekar",
+      "Pralay Biswas"
+    ],
+    "published": "2026-10-29",
+    "updated": "2026-10-29",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "active galactic"
+    ],
+    "score": 6,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2610.40937",
+    "abstract": "We investigate the morphology, size--mass relations, and spatially resolved star formation histories of 26 massive quiescent galaxies at cosmic noon ($2 < z < 3$) in the Ultra-Deep Survey field using deep JWST NIRCam imaging from the PRIMER and MINERVA surveys. Combining 16 broadband and medium-band filters with empirical point spread function matching, we perform single-Sérsic modeling and bulge--disk decompositions with pysersic across six filters (F115W to F444W), alongside Bayesian size--mass fitting with dynesty. In the rest-frame optical (F200W), the size--mass relation exhibits a steep slope of $α= 0.59 \\pm 0.12$ and effective radius of $A = 0.83_{-0.07}^{+0.08}\\ \\mathrm{kpc}$ at $M_* = 5 \\times 10^{10}\\ M_\\odot$. In the rest-frame near-infrared (F356W), we derive $α= 0.56 \\pm 0.13$ and a more compact radius of $A = 0.70_{-0.06}^{+0.07}\\ \\mathrm{kpc}$. Galaxy sizes shrink by $\\approx 22\\%$ from F115W to F444W, reflecting negative color gradients and centrally concentrated mass profiles. Two-thirds of the sample are bulge-dominated ($B/T \\ge 0.5$), whereas one-third are disk-dominated. Central bulges are ultra-compact ($R_{e,\\mathrm{Bulge}} \\approx 0.49\\ \\mathrm{kpc}$) with negligible mass dependence, whereas outer disks extend to $R_{e,\\mathrm{Disk}} \\approx 1.4\\text{--}1.5\\ \\mathrm{kpc}$. Resolved spectral energy distribution modeling with piXedfit demonstrates positive radial specific star formation rate gradients and inner regions that formed at least $\\approx 0.7\\ \\mathrm{Gyr}$ earlier and quenched faster than their outskirts. These results confirm inside-out quenching, consistent with dissipative gas compaction assembling the dense core, active galactic nucleus feedback halting central star formation, and the compact bulge dynamically stabilizing the surviving disk against fragmentation.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Vaidik Prasal, Yogesh Wadadekar, Pralay Biswas (2026), arXiv:2610.40937."
   },
   {
     "id": "2610.38432",
