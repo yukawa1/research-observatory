@@ -1,5 +1,142 @@
 [
   {
+    "id": "2611.09338",
+    "title": "GW230729\\_082317 and GW231118\\_005626: A Candidate of Hierarchical Triple Mergers",
+    "authors": [
+      "Bo Gao",
+      "Shao-Peng Tang",
+      "Yi-Zhong Fan",
+      "Qingzhong Liu"
+    ],
+    "published": "2026-11-06",
+    "updated": "2026-11-06",
+    "category": "astro-ph.HE",
+    "categories": [
+      "astro-ph.HE"
+    ],
+    "topic": "agn",
+    "tags": [
+      "active galactic",
+      "accretion disk"
+    ],
+    "score": 11,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2611.09338",
+    "abstract": "Hierarchical triple mergers denote a sequential merger process in which the black hole remnant from an initial binary merger subsequently merges with a third black hole. In this study, we identify a related pair of binary black hole mergers, GW230729\\_082317 and GW231118\\_005626, which exhibit consistent sky localization and luminosity distances; the latter is identified as a candidate hierarchical merger binary back holes. The Bayes factor in favor of a hierarchical triple merger origin over the non-association hypothesis is $110$. However, after accounting for the priors odds, the corresponding odds ratio decreases to $0.1$, indicating that the current evidence is insufficient to favor the hierarchical triple merger scenario. GW230720\\_0823 show no detectable signatures of orbit eccentricity or line-of-sight acceleration. The inferred properties of these two gravitational wave events suggest a dynamical formation channel, such as few-body scattering or gas-assisted mergers, while a primordial triple origin is disfavored. Among the proposed dynamical environments, the accretion disk of an active galactic nucleus provides the most plausible site. We further derive constraints on the local rate of hierarchical triple mergers rate under both the null and candidate scenarios. Under the assumption of no detected hierarchical triple mergers, the most stringent $90\\%$ confidence upper limit is $4.2\\,{\\rm Gpc^{-3}yr^{-1}}$ for $t_{\\rm max}=10$ years using the GWTC-4 catalog.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Bo Gao, Shao-Peng Tang, Yi-Zhong Fan et al. (2026), arXiv:2611.09338."
+  },
+  {
+    "id": "2611.09397",
+    "title": "Where the red rise stops: JWST/MIRI reveals a near-infrared turnover in the Little Red Dot Abell2744-QSO1",
+    "authors": [
+      "E. Iani",
+      "P. Rinaldi",
+      "A. Torralba",
+      "J. Matthee",
+      "F. D'Eugenio",
+      "A. Gupta",
+      "S. Mascia",
+      "C. Di Cesare",
+      "G. Oestlin",
+      "G. Kotiwale",
+      "M. Catone",
+      "G. Rodighiero"
+    ],
+    "published": "2026-11-06",
+    "updated": "2026-11-06",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "active galactic",
+      "quasar"
+    ],
+    "score": 10,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2611.09397",
+    "abstract": "Little Red Dots (LRDs) are compact sources with a blue rest-frame UV, a steep red optical continuum and, often, broad hydrogen lines. They have been interpreted as dense stellar systems, dust-reddened active galactic nuclei, or black holes embedded in dense, dust-poor gas, scenarios that are hard to tell apart in the rest-frame UV and optical. We present JWST/MIRI F770W and F1000W imaging of the triply lensed Abell2744-QSO1 at z=7.04, probing rest-frame 0.96 and 1.24um. QSO1 is unresolved, and its steep optical rise stops near rest-frame 1um. Up to 1.24um, a T~4450K blackbody, or a hotter one reddened by dust, describes the continuum, with no sign of the hot dust seen in most type-1 quasars. Our statistically preferred SED fits produce the red continuum with (3-4)x10^9 Msun of stars, over 100 times the dynamical limit on the host mass, and are therefore disfavoured. An accretion disc in a dense gas cocoon respects this limit but over-predicts the 1.24um flux by 5 sigma. Super-Eddington accretion models with a thermalising envelope reproduce the turnover, but only for a black hole ~2.5dex less massive than the dynamical estimate. For a dust-reddened accretion disc (A_V ~ 2 mag), dust at ~1200K can re-emit at most ~2 per cent of the absorbed luminosity, and most of it would have to emerge at ~70-600K, unless the dust covers only a small fraction of the sky. The dynamics favour an accretion-powered source, but our data cannot distinguish dust reddening from processing by dense gas. MIRI imaging at >18um could separate these scenarios.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "E. Iani, P. Rinaldi, A. Torralba et al. (2026), arXiv:2611.09397."
+  },
+  {
+    "id": "2611.08828",
+    "title": "KCWI Observations of Type 2 Quasar-driven Ionized Outflows at z~0.1",
+    "authors": [
+      "Alison L. Coil",
+      "Saloni Agrawal",
+      "David S. N. Rupke",
+      "Serena Perrotta",
+      "Natalie Lam",
+      "Wenmeng Ning",
+      "Casey Carlile",
+      "Yu-Hsuan Teng"
+    ],
+    "published": "2026-11-06",
+    "updated": "2026-11-06",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "agn",
+      "quasar"
+    ],
+    "score": 10,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2611.08828",
+    "abstract": "AGN-driven outflows play a crucial role in regulating star formation in galaxies. These outflows are known to be multi-phase, and the characterization of the kinematics, extent, and energetics of each gas phase is needed to obtain a full picture of the outflow properties and impact. This study presents Keck Cosmic Web Imager (KCWI) integral field spectroscopy of the ionized gas outflow properties in seven low redshift (z<0.1) quasars---six Type 2 AGN and one narrow-line Type 1 AGN---providing insight into the warm ionized outflows in these luminous AGN. With the large field-of-view and high sensitivity of KCWI, these data reveal both larger ionized outflow extents than were previously known for these sources and uncover the existence of additional high-velocity kinematic components in the ionized outflows of these luminous AGN. We find (a) a high incidence (50-70%) of multiple outflows on scales of 4--10 kpc and (b) trends between the outflow extent, kinematics, and the ionized mass and energy outflow rates. These trends imply that the faster and often smaller outflows carry higher mass and energy outflow rates than the slower, larger outflows. We also find that the ionized gas outflows reach as far as the known extent of narrow-line ionized gas emission in AGN, which is known to depend weakly on AGN luminosity. This work highlights the utility of the current generation of wide-field integral field spectrographs on 8--10m class telescopes for studying quasar-driven outflows.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Alison L. Coil, Saloni Agrawal, David S. N. Rupke et al. (2026), arXiv:2611.08828."
+  },
+  {
+    "id": "2611.09343",
+    "title": "Activity of the ejected galactic nuclei and cosmic rays",
+    "authors": [
+      "Yu. N. Eroshenko"
+    ],
+    "published": "2026-11-06",
+    "updated": "2026-11-06",
+    "category": "astro-ph.HE",
+    "categories": [
+      "astro-ph.HE"
+    ],
+    "topic": "agn",
+    "tags": [
+      "agn",
+      "accretion disk"
+    ],
+    "score": 9,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2611.09343",
+    "abstract": "The double and triple approaches of supermassive central black holes are a fairly common process in the hierarchical picture of galaxy formation. In this case, the ejection of a black hole is possible; it may carry the accretion disk and some amount of stars with it. The activity of the galactic nucleus can be restored after the ejection. One consequence of this activity is an ultrafast gas outflow, accompanied by a shock wave. We show that the acceleration of cosmic rays at such a shock is more effective than in the case of a stationary galactic nucleus due to the lower density of the surrounding gas and the higher velocity of the shock front. In this case, proton acceleration can occur up to energies of ~10^{19} eV, which is an order of magnitude higher than in an ordinary nucleus in the centers of galaxies.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Yu. N. Eroshenko (2026), arXiv:2611.09343."
+  },
+  {
     "id": "2611.07533",
     "title": "Constraining the timescale of activity in Mrk 1018",
     "authors": [
@@ -62,6 +199,110 @@
     "scientific_summary": "",
     "caveat": "",
     "reference": "Kanako Narita, Yoshiyuki Inoue, Bunyo Hatsukade et al. (2026), arXiv:2611.07737."
+  },
+  {
+    "id": "2611.08594",
+    "title": "Constraining Dust Attenuation Curves in Star-Forming Galaxies at Cosmic Noon Using Multiple Emission Line Ratios",
+    "authors": [
+      "Owen Zafuta",
+      "Joseph Havens",
+      "Bren E. Backhaus",
+      "Allison Kirkpatrick",
+      "Gregory Troiani",
+      "Kurt Hamblin"
+    ],
+    "published": "2026-11-05",
+    "updated": "2026-11-05",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "balmer"
+    ],
+    "score": 11,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2611.08594",
+    "abstract": "Dust attenuation remains a dominant systematic uncertainty in measurements of an emission line, and therefore galaxies properties derived from the emission lines such as star formation rates. Corrections based only on the Balmer decrement require an assumed attenuation-curve slope, even though that slope varies among galaxies. We use JWST/NIRSpec spectroscopy from JADES to constrain effective dust attenuation curves for 386 star-forming galaxies at $0.5\\leq z\\leq7$. For each galaxy, we combine H$α$, H$β$, and one additional hydrogen recombination line and solve for the normalization $τ_V$ and slope $n$ of a power-law attenuation curve, allowing the slope to vary from galaxy to galaxy. We found slopes and normalization span a broad range even for galaxies at similar redshifts. Additionally, our method using Paschen transitions provided substantially greater constraints the attenuation-curve slope than Balmer-only combinations. When comparing to SMC-like or Calzetti-like corrections we find our method produces more consistent star formation rates with less scatter. These improved dust corrections provide an avenue to better describe star formation rates in the epoch of peak star formation and the early universe.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Owen Zafuta, Joseph Havens, Bren E. Backhaus et al. (2026), arXiv:2611.08594."
+  },
+  {
+    "id": "2611.08603",
+    "title": "FORGE'd in Fragments: Pop III star formation in a Milky Way-like progenitor halo",
+    "authors": [
+      "Vasilii Pustovoit",
+      "Shivan Khullar",
+      "Norman Murray",
+      "Yasmine J. Meziani",
+      "Claude-André Faucher-Giguère",
+      "Philip F. Hopkins",
+      "Michael Y. Grudić",
+      "J. Richard Bond"
+    ],
+    "published": "2026-11-05",
+    "updated": "2026-11-05",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA",
+      "astro-ph.SR"
+    ],
+    "topic": "agn",
+    "tags": [
+      "agn",
+      "accretion disk"
+    ],
+    "score": 9,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2611.08603",
+    "abstract": "We present a radiation-magnetohydrodynamic (RMHD) cosmological zoom-in simulation of Pop III star formation, drawing initial conditions from a Milky Way-like progenitor halo at redshift $z \\sim 21$. We follow the collapse of primordial gas over 10 orders of magnitude, through to the formation of an accretion disk that becomes gravitationally unstable $Δt \\sim -3$ kyr before the first protostar's formation. Prominent spiral arms then develop and fragment vigorously, producing $\\sim 60$ sink formation events over the first $8$ kyr post-collapse evolution, with a total stellar mass reaching $> 150\\,{\\rm M_\\odot}$ by $15$ kyr, the end of our simulation. The disk remains magnetically supercritical throughout: the mass-to-flux ratio falls from $μ_Φ\\sim 10^2$-$10^3$ to $\\sim 15$ by $15$ kyr, as the inflow brings in magnetic flux. The magnetic energy in the disk remains sub-dominant throughout, but grows by $\\sim 3.5$ orders of magnitude after the first star forms. The disk starts sub-virial and reaches virial equilibrium within $\\sim 2$ kyr. The total stellar mass of the population grows as $M_* \\propto t^2$, confirming the prediction of accelerating accretion in self-gravitating turbulent collapse, at rates of $\\dot{M} \\sim 10^{-3}$-$10^{-2}\\,{\\rm M}_\\odot {\\rm yr}^{-1}$. The star formation efficiency reaches $\\approx 90\\%$ within the disk (after $\\approx 11$ kyr; $\\approx 80\\%$ at $9.5$ kyr) and $\\sim 50\\%$ within a $0.1$ pc sphere. We find a top heavy IMF ($dN/dm \\propto m^{-α}$) with a high-mass slope $α\\approx 1$. The cosmological environment sets the boundary conditions of the disk: an envelope delivers $\\sim 3\\times 10^{-3}\\,{\\rm M}_\\odot {\\rm yr}^{-1}$ to the outer edge of a disk with a radius of $\\sim 10^{3}$ AU; the disk spreads and, in our simulation, its fragmentation sites move outward, from $\\sim 500$ to $\\sim 1350$\\,AU, until it has been depleted.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Vasilii Pustovoit, Shivan Khullar, Norman Murray et al. (2026), arXiv:2611.08603."
+  },
+  {
+    "id": "2611.08599",
+    "title": "Magnetically Arrested Accretion and Black Hole Spin in a Semi-Analytic Model of Galaxy Formation",
+    "authors": [
+      "Antonio J. Porras-Valverde",
+      "Angelo Ricarte",
+      "Priyamvada Natarajan",
+      "Hyerin Cho",
+      "Ramesh Narayan",
+      "Kung-Yi Su",
+      "Cora Prather"
+    ],
+    "published": "2026-11-05",
+    "updated": "2026-11-05",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "agn"
+    ],
+    "score": 8,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2611.08599",
+    "abstract": "We present {\\sc Mad Sage}, a semi-analytic model of galaxy formation that couples black hole mass and spin evolution to gas accretion and AGN feedback under magnetically arrested disk conditions. Building on the {\\sc Dark Sage} model, we incorporate GRMHD-calibrated prescriptions for spin evolution and jet power, spin-dependent radiative efficiencies, and remnant spins from BH-BH mergers. We compare accretion and feedback models, including coherent disk-fed accretion with mixed coherent and incoherent hot-halo accretion, with and without additional mechanical feedback. We find that incoherent accretion, together with Blandford-Znajek spin-down, drives massive BHs toward low spins, reducing jet efficiencies and weakening the quenching of massive galaxies. Reproducing the high-mass end of the stellar mass function requires either exclusively coherent accretion or an additional feedback component provided by ADAF outflows. Our models broadly reproduce observed BH-galaxy scaling relations, disk surface density profiles, and the AGN luminosity function at $z\\sim 2-6$, although the spin models under-predict the number density of faint AGN at low redshift. At $z\\lesssim 3$, predicted BH spins decrease with increasing BH mass, while at higher redshifts, the mass dependence weakens. Spin distributions peak at $|a_\\star|\\sim 0.5$-$0.7$, below current X-ray reflection spectroscopy measurements, and become bimodal for massive, quiescent BHs accessible with the next generation Event Horizon Telescope and the Black Hole EXplorer. We report that the predicted LISA event rates are nearly independent of the adopted accretion and spin models.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Antonio J. Porras-Valverde, Angelo Ricarte, Priyamvada Natarajan et al. (2026), arXiv:2611.08599."
   },
   {
     "id": "2611.07524",
