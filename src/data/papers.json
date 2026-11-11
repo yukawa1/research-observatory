@@ -1,5 +1,169 @@
 [
   {
+    "id": "2611.14223",
+    "title": "Spectral-Timing Evolution of the Black Hole X-ray Binary LMC X-3: An XPoSat View",
+    "authors": [
+      "Sayantan Bhattacharya",
+      "Aman Kaushik",
+      "Sudip Bhattacharyya"
+    ],
+    "published": "2026-11-10",
+    "updated": "2026-11-10",
+    "category": "astro-ph.HE",
+    "categories": [
+      "astro-ph.HE"
+    ],
+    "topic": "agn",
+    "tags": [
+      "agn",
+      "accretion disk"
+    ],
+    "score": 10,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2611.14223",
+    "abstract": "LMC X-3 is a persistent black hole high-mass X-ray binary and serves as an important laboratory for studying accretion disk evolution across different spectral states. We present a spectral-timing analysis of XPoSat/XSPECT observations of LMC X--3 obtained during 2024 and 2025. Using broadband X-ray light curves, hardness diagnostics, power spectral analysis, and spectral modeling, we investigate the long-term evolution of the source across multiple epochs. LMC X-3 exhibits significant changes in both its spectral and timing properties between the two observing campaigns. Hardness-intensity and hardness-rms diagrams reveal a clear separation between the 2024 and 2025 observations and even within the 2024 observations. Overall, it indicates a transition from a relatively harder and more variable state to a brighter, softer, and less variable state. Power spectral analysis shows enhanced broadband variability during the 2024 observations, while the 2025 observations are characterized by weaker variability. Spectral modeling of the combined XSPECT observations indicates an increase in the thermal disk temperature from 0.8 to 1.17 keV, accompanied by a ~5 times increase in X-ray flux between the two epochs. The observed reduction in fractional rms variability with increasing source brightness and decreasing spectral hardness is consistent with more contribution from a stable thermal accretion disk. Taken together, the spectral and timing diagnostics provide a self-consistent picture of accretion-state evolution in LMC X-3, demonstrating the capability of XSPECT to probe long-term variability and accretion processes in bright black hole X-ray binaries.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Sayantan Bhattacharya, Aman Kaushik, Sudip Bhattacharyya (2026), arXiv:2611.14223."
+  },
+  {
+    "id": "2611.14332",
+    "title": "Tracing the Epoch of Reionization through extreme emission line galaxies around Cosmic Noon",
+    "authors": [
+      "M. Delgado Mancheño",
+      "J. Gallego",
+      "S. Pascual",
+      "M. Tang",
+      "R. Pello",
+      "N. Laporte",
+      "A. Camps-Fariña",
+      "M. Chamorro-Cazorla"
+    ],
+    "published": "2026-11-10",
+    "updated": "2026-11-10",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "agn"
+    ],
+    "score": 9,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2611.14332",
+    "abstract": "Star-forming galaxies at z>6 are thought to be the main drivers of cosmic reionization, but their faintness makes detailed study challenging even with JWST. Extreme Emission Line Galaxies (EELGs) are compact, low-mass systems with intense nebular emission and are potential lower-redshift analogues of this population. We aim to assemble and characterize a statistically significant sample of EELGs in the CANDELS/EGS field around cosmic noon, and to assess their validity as analogues of the galaxies that drove reionization. We select EELG candidates from CANDELS photometry with a J-band color-excess criterion that identifies both H$β$+[OIII] and H$α$ emitters. Physical properties are taken from CANDELS data products, and the selection is validated with MMT/MMIRS, Keck/MOSFIRE, HST/WFC3 and JWST/NIRSpec spectroscopy, complemented by our own GTC/OSIRIS+ program. We identify 102 H$β$+[OIII] emitters at $z\\sim1.7$ and 127 H$α$ emitters at $z\\sim1.0$. They are compact ($\\sim$1.6 kpc), low-mass ($\\log(M_\\star/M_\\odot)\\sim8$) and strongly star-forming (sSFR $\\sim10^{-8}$ yr$^{-1}$). Estimated purities of $84.3\\pm1.5$\\% (H$β$+[OIII]) and $76.8\\pm2.0$\\% (H$α$) agree with spectroscopic confirmation rates (85\\% and 63\\%), with no evidence of significant AGN contamination. A joint Bayesian fit, corrected for completeness via a truncated likelihood, yields $\\log(M_\\star/M_\\odot) = (6.71\\pm0.16) + (3.31\\pm0.46)\\log(1+z)$, suggesting an evolution in the characteristic mass of the sample with cosmic time. We spectroscopically confirm a highly pure, AGN-free sample of cosmic-noon EELGs. While their mass scale evolves with redshift, their properties consistently match those of z>5 JWST extreme emitters, supporting them as intermediate-redshift analogues.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "M. Delgado Mancheño, J. Gallego, S. Pascual et al. (2026), arXiv:2611.14332."
+  },
+  {
+    "id": "2611.13519",
+    "title": "Molecular signatures of shocked gas and enhanced cosmic-ray ionization in supernova remnant W49B revealed by ALMA",
+    "authors": [
+      "Wenjin Yang",
+      "Ping Zhou",
+      "Zhi-Yu Zhang",
+      "Gao-Yuan Zhang",
+      "Bon-Chul Koo",
+      "Yan Gong",
+      "Ruo-Yu Liu",
+      "Hidetoshi Sano",
+      "Tian-Yu Tu",
+      "Yang Chen",
+      "Tram N. Le",
+      "Lianghao Lin",
+      "Friedrich Wyrowski"
+    ],
+    "published": "2026-11-10",
+    "updated": "2026-11-10",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "agn",
+      "broad-line"
+    ],
+    "score": 9,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2611.13519",
+    "abstract": "Galactic supernova remnants (SNRs) interacting with molecular clouds (MCs) provide important laboratories for investigating how supernova feedback is transferred to the interstellar medium. We performed observations of the HCO+ J=1-0, 3-2, and 4-3 lines, as well as the CO J=3-2 line, toward the eastern and western regions of SNR W49B using the Atacama Large Millimeter/submillimeter Array (ALMA) and the Atacama Pathfinder Experiment (APEX) telescope. In W49B west, we identify twelve regions with broad-line profiles in both HCO+ and CO emission, with FWHM of 25-60 km/s, providing clear evidence of SNR-MC interaction. These emissions are compact (at $\\sim$5 arcsec resolution) and spatially coincident with 2.12~$μ$m H$_2$ emission, but generally offset from the 1.64~$μ$m [Fe~II] and radio continuum peaks. Non-LTE analyses yield shocked-gas densities of (0.5-1.6) $\\times 10^5$~cm$^{-3}$ and high $N_{\\rm HCO+}/N_{\\rm CO}$ abundance ratios of (4.2-14.5) $\\times 10^{-4}$. Reproducing such high abundance ratios in shocked MCs requires high cosmic ray ionization rates (CRIRs) of a few 10$^{-14}$-10$^{-13}$~s$^{-1}$, about 3-4 orders of magnitude above the standard Galactic level. Some regions exhibit enhanced HCO+/CO intensity ratios in their high-velocity line wings, possibly due to multiple unresolved shocks spanning a range of velocities and gas densities, spatial variations in the CRIR, or both. By contrast, the ratio remains nearly constant with velocity in other regions. For these regions, we further explore the propagation of low-energy CRs through the post-shock layer. An energy-budget analysis of a representative shocked clump indicates that the shock-associated kinetic-energy reservoir substantially exceeds cumulative CR and X-ray heating inputs, with CR heating exceeding X-ray heating.[abridged]",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Wenjin Yang, Ping Zhou, Zhi-Yu Zhang et al. (2026), arXiv:2611.13519."
+  },
+  {
+    "id": "2611.14238",
+    "title": "Unveiling the Extreme Universe with Recent IACT Discoveries",
+    "authors": [
+      "R. López-Coto"
+    ],
+    "published": "2026-11-10",
+    "updated": "2026-11-10",
+    "category": "astro-ph.HE",
+    "categories": [
+      "astro-ph.HE"
+    ],
+    "topic": "agn",
+    "tags": [
+      "agn",
+      "quasar"
+    ],
+    "score": 8,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2611.14238",
+    "abstract": "Very-high-energy (VHE, $E \\gtrsim 50$\\,GeV) $γ$-ray astronomy has evolved into an indispensable pillar of modern astroparticle physics, offering a direct view of non-thermal particle acceleration, cosmic-ray origins, and fundamental physics. Ground-based Imaging Atmospheric Cherenkov Telescopes (IACTs) have driven this revolution over the past two decades. In this plenary review, presented at the 9th Heidelberg International Symposium on High-Energy Gamma-Ray Astronomy (Gamma 2026), I provide a synthesis of recent breakthrough physics discoveries achieved by current IACT arrays (H.E.S.S., MAGIC, and VERITAS) alongside early scientific achievements from the Large-Sized Telescope prototype (LST-1) of the Cherenkov Telescope Array Observatory (CTAO). Key highlights include the definitive establishment of recurrent novae as transient cosmic-ray proton accelerators via RS Ophiuchi; spatially resolved multi-TeV emission from the relativistic jet termination shocks of microquasars; the discovery of a 20 TeV pulsed radiation component from the Vela pulsar, challenging established magnetospheric emission paradigms; precision measurements of the Galactic Center diffuse ridge spectrum favoring a high-energy cutoff; the detection of distant flat-spectrum radio quasars at $z \\sim 1$ (OP 313 and PKS 0346-27), providing tight cosmological constraints on the Extragalactic Background Light; multi-wavelength afterglow detections of $γ$-ray bursts including GRB 221009A; and world-leading joint indirect dark matter limits from dwarf spheroidal galaxy and Galactic Center halo analyses. Together with algorithmic advances in deep learning reconstruction and the ongoing construction of CTAO, these milestones demonstrate the enduring vitality and future trajectory of ground-based $γ$-ray astrophysics.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "R. López-Coto (2026), arXiv:2611.14238."
+  },
+  {
+    "id": "2611.14157",
+    "title": "NuSTAR view of the NGC 4151 corona: thermal balance and astroparticle constraints",
+    "authors": [
+      "Luigi Foschini"
+    ],
+    "published": "2026-11-10",
+    "updated": "2026-11-10",
+    "category": "astro-ph.HE",
+    "categories": [
+      "astro-ph.HE"
+    ],
+    "topic": "agn",
+    "tags": [
+      "seyfert"
+    ],
+    "score": 7,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2611.14157",
+    "abstract": "I present a comprehensive analysis of all publicly available NuSTAR observations of the nearby Seyfert galaxy NGC 4151 (2012--2024). The hard X-ray continuum is well described by thermal Comptonization in a hot corona, with electron temperatures $kT_{\\rm e} \\approx 40-125$ keV and optical depths $τ\\approx 0.4-1.2$ (slab geometry). A clear anti-correlation between $kT_{\\rm e}$ and $τ$ is observed, consistent with a thermostat behavior with constant Compton parameter $γ\\approx 3.12$ calculated according to Sunyaev and Titarchuk (1980). Variability on timescales of hours constrains the size of the emitting region to $R \\approx 250-1200 r_{\\rm g}$, corresponding to moderate compactness values $\\ell \\lesssim 4$. The source occupies the same region of the compactness--temperature plane as other local Seyferts, with no evidence for pair runaway. I then explore two astroparticle implications. The IceCube neutrino excess reported toward NGC 4151 corresponds to $L_ν/L_X \\approx 0.3\\%$, an energetically negligible contribution that does not alter the observed coronal energy balance. An additional injection of pairs from the hypothetical X17 boson cannot produce significant changes, unless the injection rate exceeds the photoproduction one, but no anomalies were found in the present data set. The NuSTAR data thus provide no evidence for either a significant neutrino cooling channel or an X17-related pair injection in the corona of NGC 4151.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Luigi Foschini (2026), arXiv:2611.14157."
+  },
+  {
     "id": "2611.12448",
     "title": "Revisiting the Einstein Cross with X-shooter spectra: New estimates of accretion disk parameters and broad emission line profiles from microlensing",
     "authors": [
@@ -33,6 +197,75 @@
     "reference": "R. Jerez-Nicurcar, A. Esteban-Gutiérrez, V. Motta et al. (2026), arXiv:2611.12448."
   },
   {
+    "id": "2611.13181",
+    "title": "Dust Reverberation Mapping of Low-Mass Active Galactic Nuclei",
+    "authors": [
+      "Chi-Zhuo Wang",
+      "Hengxiao Guo",
+      "Xue-Bing Wu",
+      "Wenwen Zuo",
+      "Wanling Liu",
+      "Jingbo Sun",
+      "Wenke Ren",
+      "Shu Wang"
+    ],
+    "published": "2026-11-09",
+    "updated": "2026-11-09",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "active galactic",
+      "agn",
+      "reverberation"
+    ],
+    "score": 18,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2611.13181",
+    "abstract": "We perform a systematic dust reverberation mapping study of low-mass ($M_{\\mathrm{BH}}\\sim10^6$-$10^7 M_\\odot$) active galactic nuclei (AGNs) selected from a literature-compiled catalog, using data from the Zwicky Transient Facility and the Wide-field Infrared Survey Explorer. Through quality assessments, we obtain a core sample of 65 sources with W1- and W2-band lag measurements relative to optical light curves. The W2-band lags are generally longer than the W1-band lags, with a median ratio of $τ_{\\mathrm{W2}}/τ_{\\mathrm{W1}}=1.24^{+0.33}_{-0.21}$. We further investigate the relations between dust radius and AGN luminosity ($R_{\\mathrm{dust}}-L_{\\mathrm{AGN}}$), using different lag measurements and luminosity proxies. Combining our sample with a higher-luminosity AGN sample, we establish unified $R_{\\mathrm{dust}}-L_{\\mathrm{AGN}}$ relations spanning nearly seven orders of magnitude in bolometric luminosity. The slopes are $0.47\\pm0.01$ and $0.44\\pm0.01$ for the W1 and W2 bands, slightly below the expectation of $0.5$ from dust radiative equilibrium. In the combined sample, the lag deviations show a negative correlation with Eddington ratio, potentially related to the self-shadowing effect of slim disks. The luminosity-dependent SED variations revealed by the SPHEREx composite spectra suggest that individual luminosity proxies may not fully trace the intrinsic dust-heating luminosity. Both effects may contribute to the shallow $R_{\\mathrm{dust}}-L_{\\mathrm{AGN}}$ slopes. Future joint optical and near-infrared monitoring with the Vera C. Rubin Observatory's Legacy Survey of Space and Time and the Nancy Grace Roman Space Telescope will further extend dust RM studies to lower-luminosity AGNs hosting lower-mass black holes.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Chi-Zhuo Wang, Hengxiao Guo, Xue-Bing Wu et al. (2026), arXiv:2611.13181."
+  },
+  {
+    "id": "2611.13247",
+    "title": "Detectability of Seyfert galaxies in point-source and stacking searches with a global network of neutrino telescopes",
+    "authors": [
+      "Lena Saurenhaus",
+      "Francesca Capel",
+      "Foteini Oikonomou"
+    ],
+    "published": "2026-11-09",
+    "updated": "2026-11-09",
+    "category": "astro-ph.HE",
+    "categories": [
+      "astro-ph.HE"
+    ],
+    "topic": "agn",
+    "tags": [
+      "active galactic",
+      "agn",
+      "seyfert"
+    ],
+    "score": 16,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2611.13247",
+    "abstract": "Recent evidence for high-energy neutrino emission from NGC 1068 and other nearby Seyfert galaxies suggests that active galactic nuclei (AGNs) may constitute a class of astrophysical neutrino sources. Using a physically motivated neutrino emission model based on stochastic particle acceleration in magnetized AGN coronae, we investigate the detection prospects of X-ray-bright Seyfert galaxies with a detector network comprising IceCube, Baikal-GVD, KM3NeT/ARCA, and P-ONE. We find that the Circinus Galaxy is the most promising point-source target in the Southern sky and will be detected at the 5$σ$ level by 2038 at the latest, provided that the Seyfert population accounts for the diffuse astrophysical neutrino flux up to 100 TeV and Circinus is at least as efficient a neutrino emitter as the average source in the population. Individual detections of other nearby Seyferts are expected to remain challenging, making stacking searches informed by X-ray observations the most promising approach for discovering them within the next decade. Our results demonstrate that joint analyses across multiple neutrino telescopes, together with future MeV gamma-ray observations, will be essential for establishing Seyfert galaxies as astrophysical neutrino sources and provide a means for testing the coronal origin of their neutrino emission.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Lena Saurenhaus, Francesca Capel, Foteini Oikonomou (2026), arXiv:2611.13247."
+  },
+  {
     "id": "2611.12595",
     "title": "The Edge of the Warm Corona in Active Galactic Nuclei",
     "authors": [
@@ -45,7 +278,7 @@
       "Stefano Bianchi"
     ],
     "published": "2026-11-09",
-    "updated": "2026-11-09",
+    "updated": "2026-11-10",
     "category": "astro-ph.HE",
     "categories": [
       "astro-ph.HE",
@@ -59,7 +292,7 @@
     ],
     "score": 15,
     "status": "Preprint / verify journal status",
-    "version": 1,
+    "version": 2,
     "review_status": "metadata_only",
     "evidence_level": "arXiv abstract (unreviewed)",
     "link": "https://arxiv.org/abs/2611.12595",
@@ -111,6 +344,112 @@
     "scientific_summary": "",
     "caveat": "",
     "reference": "Qianqiao Zhou, Yuxuan Pang, Xin Wang et al. (2026), arXiv:2611.12284."
+  },
+  {
+    "id": "2611.13364",
+    "title": "Identification of the C IV $λλ$5801, 5812 Emission in the Off-Nuclear TDE 2025abcr",
+    "authors": [
+      "Jingbo Sun",
+      "Hengxiao Guo",
+      "Sjoert van Velzen",
+      "Yuhan Yao",
+      "Mar Mezcua",
+      "Stefan Geier",
+      "Alok C. Gupta",
+      "Karan Dogra",
+      "Philip G. Edwards",
+      "Wenwen Zuo",
+      "Yu Pan",
+      "Minfeng Gu"
+    ],
+    "published": "2026-11-09",
+    "updated": "2026-11-09",
+    "category": "astro-ph.HE",
+    "categories": [
+      "astro-ph.HE",
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "active galactic",
+      "agn"
+    ],
+    "score": 15,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2611.13364",
+    "abstract": "TDE 2025abcr is a tidal disruption event (TDE) located approximately 9 kpc in projection from its host galaxy nucleus. Our spectroscopic follow-up with the Very Large Telescope (VLT) reveals C IV $λ\\lambda5801, 5812$ emission, representing the first identification of this C IV doublet in a TDE. These transitions are uncommon in active galactic nuclei (AGN) spectra but have been observed in supernova flash spectra and Wolf-Rayet (WR) stars. We propose that the doublet arises from the combined effects of continuum fluorescence and photon trapping in the 312 Å transition, analogous to the mechanism operating in nitrogen-sequence Wolf-Rayet (WN) winds. This mechanism requires intense extreme-ultraviolet (EUV) illumination and a high optical depth, providing a distinctive diagnostic of the physical conditions in optically thick TDE outflows. These requirements, together with the relatively narrow widths of the broad emission lines, the presence of Bowen fluorescence features, and the small inferred blackbody radius, favor a compact and dense envelope in TDE 2025abcr. The optical C IV doublet may have been overlooked in previous observational and theoretical studies of TDEs, motivating more detailed radiative-transfer calculations for optically thick outflows. With future TDE samples from Rubin/LSST and WFST, a larger C IV TDE sample will test if this population systematically favors a compact photosphere.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Jingbo Sun, Hengxiao Guo, Sjoert van Velzen et al. (2026), arXiv:2611.13364."
+  },
+  {
+    "id": "2611.13185",
+    "title": "Giant Radio Galaxies from the Third Data Release of the LOFAR Two-metre Sky Survey (LoTSS-DR3): Physical Characteristics and Environments",
+    "authors": [
+      "Souvik Manik",
+      "Netai Bhukta",
+      "Sabyasachi Pal",
+      "Sushanta K. Mondal"
+    ],
+    "published": "2026-11-09",
+    "updated": "2026-11-09",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "active galactic",
+      "agn"
+    ],
+    "score": 12,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2611.13185",
+    "abstract": "Giant radio galaxies (GRGs) are radio-loud active galactic nuclei (AGN) with projected linear sizes exceeding 0.7 Mpc, offering insights into the evolution of large-scale radio jets and their environments. We present 2333 GRGs from the LOFAR Two-metre Sky Survey Data Release 3 (LoTSS-DR3), with projected sizes of 0.7-2.9 Mpc, redshifts of $0.126 \\leq z \\leq 3.517$, and 150-MHz radio luminosities of $1.72 \\times 10^{24}$-$3.04 \\times 10^{28}$ W Hz$^{-1}$. Of these, 726 ($\\sim 31\\%$) lie at $z \\geq 1$. We investigate their radio properties, lobe energetics, equipartition pressures, black hole masses, mid-infrared colours, and environments. Equipartition pressure decreases with increasing projected size, consistent with declining lobe energy density as radio structures expand, while its positive correlation with redshift persists after controlling for radio power and projected size. WISE colours highlight the diversity of the host-galaxy population, with approximately 75% of sources with available photometry falling within the empirical AGN/HERG region. For BCG-hosted GRGs, physical projected size shows no significant dependence on cluster mass. Although the normalized projected half-size, $D/(2r_{500})$, decreases with increasing cluster mass, this trend is consistent with the expected self-similar scaling of cluster radius rather than an independent suppression of radio-source growth in massive clusters. The substantial high-redshift population provides an opportunity to investigate GRGs at early cosmic epochs, although surface-brightness dimming and inverse-Compton losses against the cosmic microwave background can limit their detectability.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Souvik Manik, Netai Bhukta, Sabyasachi Pal et al. (2026), arXiv:2611.13185."
+  },
+  {
+    "id": "2611.13035",
+    "title": "The Ordinary Days of Extraordinary Blazar 3C 454.3",
+    "authors": [
+      "Sajeesh George",
+      "P N Naseef Mohammed",
+      "Aminabi Thekkoth",
+      "Vaidehi S. Paliya",
+      "C D Ravikumar"
+    ],
+    "published": "2026-11-09",
+    "updated": "2026-11-09",
+    "category": "astro-ph.HE",
+    "categories": [
+      "astro-ph.HE"
+    ],
+    "topic": "agn",
+    "tags": [
+      "quasar",
+      "accretion disk"
+    ],
+    "score": 11,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2611.13035",
+    "abstract": "The blazar 3C 454.3 (z = 0.859) is one of the brightest and most variable flat-spectrum radio quasars in the sky. Here, we present a multi-wavelength analysis of this enigmatic object in its quiescent states during June 2022 and May 2023 coincident with its first X-ray polarimetric and hard X-ray observations with International X-ray Polarimetric Explorer (IXPE) and Nuclear Spectroscopic Telescope Array (NuSTAR). Though no X-ray polarization was detected, NuSTAR detected the source on all occasions during this period. We generated five broadband spectral energy distributions (SEDs)of the blazar using quasi-simultaneous observations taken with the Fermi-Large Area Telescope, NuSTAR, and Neil Gehrels Swift Observatory. The hard X-ray flux measured by NuSTAR exhibited mild flux variations. The SEDs were modeled with a one-zone leptonic emission framework using the JetSet package. The optical-ultraviolet spectrum of 3C 454.3 revealed an upturn which we reproduced with the standard accretion disk model. The X-ray to gamma-ray spectrum of 3C 454 was found to be well explained by the external Compton (EC) process with the seed photons provided by the BLR and accretion disk. These results provide intriguing clues about the multi-wavelength behavior of 3C 454.3 during its quiescent activity state.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Sajeesh George, P N Naseef Mohammed, Aminabi Thekkoth et al. (2026), arXiv:2611.13035."
   },
   {
     "id": "2611.12845",
@@ -224,6 +563,101 @@
     "reference": "Jean Maurice Meus, Christian Chapman-Bird, Alberto Vecchio (2026), arXiv:2611.12496."
   },
   {
+    "id": "2611.13350",
+    "title": "Early--Narrow and Late--Wide Populations of GRB X-ray Flares",
+    "authors": [
+      "H. Dereli-Bégué",
+      "A. Pe'er"
+    ],
+    "published": "2026-11-09",
+    "updated": "2026-11-09",
+    "category": "astro-ph.HE",
+    "categories": [
+      "astro-ph.HE"
+    ],
+    "topic": "agn",
+    "tags": [
+      "accretion disk"
+    ],
+    "score": 6,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2611.13350",
+    "abstract": "The physical origin of gamma-ray burst (GRB) X-ray flares remains debated, particularly whether they arise from prolonged central-engine activity or from variability in the external shock. Building on our previous analysis of 89 Swift GRBs with measured redshifts, we investigate the rest-frame temporal properties of X-ray flares detected in 61 bursts. We apply a multivariate Gaussian Mixture Model to rest-frame peak times and widths. We identify two statistically distinct populations: early-narrow flares (80%), with characteristic peak times of approximately 10^2 s and w/t_pk <= 1, and late-wide flares (20%), with characteristic peak times of ~ 10^3.5 s and w/t_pk >= 2. Of the 61 single or first flares, 55 belong to the early-narrow population and only 6 to the late-wide population. Of the 36 second flares, 23 (64%) belong to the early-narrow population, with shorter waiting times, whereas 13 (36%) belong to the late-wide population, with substantially longer waiting times. The width-peak-time correlation remains significant for early-narrow flares but not for late-wide flares. Furthermore, we find no correlation between flare width and energy. We find a decline of flare luminosity with peak time, driven primarily by the early-narrow population, but not statistically significant for late-wide flares. These results imply that a simple shift in time, potentially associated with later episodes of central-engine activity, cannot explain the distinction between the two flare populations. On the other hand, the peak times are consistent with expectations from an accretion disk formed following the collapse of a stellar-size massive star. Combined with our previous finding that flare properties are independent of the presence of an X-ray plateau, these results favor prolonged accretion-driven central-engine activity over external-shock variability as the primary origin of X-ray flares.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "H. Dereli-Bégué, A. Pe'er (2026), arXiv:2611.13350."
+  },
+  {
+    "id": "2611.13116",
+    "title": "Revealing Hidden Excitation in the Core of NGC 4696: New Infrared Diagnostic Diagrams with JWST",
+    "authors": [
+      "Olivia R Pereira",
+      "Julie Hlavacek-Larrondo",
+      "Michael Reefe",
+      "Gary J Ferland",
+      "Hyunseop Choi",
+      "Mathieu Marquis",
+      "Jorge Barrera-Ballesteros",
+      "Benjamin Vigneron",
+      "Ming Sun",
+      "Rebecca E A Canning",
+      "Gregory Taylor",
+      "Loic Albert",
+      "Francesco D'Eugenio",
+      "Megan Donahue",
+      "Andrew C Fabian",
+      "John S Gallagher",
+      "Marie-Lou Gendron-Marsolais",
+      "Pierre Guillard",
+      "Minghao Guo",
+      "Nina Hatch",
+      "Ralf Kotulla",
+      "Yuan Li",
+      "Roberto Maiolino",
+      "Allison Man",
+      "Michael A McDonald",
+      "Brian R McNamara",
+      "Valeria Olivares",
+      "Marine Prunier",
+      "Christopher S Reynolds",
+      "Carter Rhea",
+      "Annabelle Richard-Laferriere",
+      "Helen R Russell",
+      "Philippe Salome",
+      "Prathamesh Tamhane",
+      "Auriane Thilloy",
+      "Grant R Tremblay",
+      "G Mark Voit",
+      "Stephen A Walker"
+    ],
+    "published": "2026-11-09",
+    "updated": "2026-11-09",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA",
+      "astro-ph.HE"
+    ],
+    "topic": "agn",
+    "tags": [
+      "agn"
+    ],
+    "score": 6,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2611.13116",
+    "abstract": "The warm molecular and ionized gas in filamentary nebulae of cool-core BCGs provide a sensitive probe of the poorly understood exchange of energy between the ICM, cold molecular gas, and AGN feedback. Optical line ratios commonly yield similar LINER-like classifications across these systems, but do not resolve how the excitation of warm molecular gas varies between compact nuclear structures and surrounding filaments. We present JWST/NIRSpec integral-field spectroscopy of the central $3''\\times3''$ ($620\\times620~{\\rm pc^2}$) of the Centaurus cluster BCG, NGC~4696. The NIR data resolve H$I$ and ro-vibrational H$_2$ emission across compact nuclear apertures, a circumnuclear swirl, and filamentary structures. H$_2$ excitation diagrams yield characteristic low-excitation temperatures of $T_{\\rm ex}\\simeq1.8-2.2\\times10^3$~K, while curvature at higher energies requires hotter or non-thermal components. The H$_2$/Pa$α$ balance varies strongly: filamentary regions have H$_2$ 1-0 S(1)/Pa$α$ ratios 4-8 times higher than the compact nuclear apertures. In contrast, matched-aperture optical diagnostic diagrams show substantially less regional separation, with all regions occupying a low-ionization locus. We thus introduce new spatially resolved NIR diagnostic diagrams that reveal distinct molecular excitation conditions across the nucleus, swirl, and filaments. Ratios are broadly consistent with contributions from AGN-related photoionization, ICM-related cooling radiation, and non-radiative heating, although the present data do not uniquely determine their relative importance. These results demonstrate how spatially resolved NIR spectroscopy reveals excitation variations hidden in conventional optical classifications, providing a new route to constrain the multiphase cooling-feedback cycle in cluster cores.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Olivia R Pereira, Julie Hlavacek-Larrondo, Michael Reefe et al. (2026), arXiv:2611.13116."
+  },
+  {
     "id": "2611.11075",
     "title": "Season by season causal analysis of the continuum and velocity-resolved H$β$ emission of NGC 5548",
     "authors": [
@@ -231,7 +665,7 @@
       "Vasilios Zarikas"
     ],
     "published": "2026-11-08",
-    "updated": "2026-11-08",
+    "updated": "2026-11-10",
     "category": "astro-ph.GA",
     "categories": [
       "astro-ph.GA",
@@ -244,7 +678,7 @@
     ],
     "score": 13,
     "status": "Preprint / verify journal status",
-    "version": 1,
+    "version": 2,
     "review_status": "metadata_only",
     "evidence_level": "arXiv abstract (unreviewed)",
     "link": "https://arxiv.org/abs/2611.11075",
