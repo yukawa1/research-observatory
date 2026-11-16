@@ -1,5 +1,199 @@
 [
   {
+    "id": "2611.17996",
+    "title": "WISE-VAULT: Decade-long Mid-Infrared Variability of WISE AGN",
+    "authors": [
+      "Suvendu Rakshit"
+    ],
+    "published": "2026-11-13",
+    "updated": "2026-11-13",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA",
+      "astro-ph.HE"
+    ],
+    "topic": "agn",
+    "tags": [
+      "active galactic",
+      "agn",
+      "changing-look"
+    ],
+    "score": 21,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2611.17996",
+    "abstract": "Mid-infrared (MIR) variability provides a powerful probe of accretion processes and dust reprocessing in active galactic nuclei (AGNs), as it is less affected by extinction than optical flux. Using multi-epoch photometry from \\textit{WISE} and NEOWISE spanning over a decade, we investigate the MIR variability of $\\sim$4.5 million color-selected AGNs. Variability is quantified using maximum--minimum amplitudes ($ΔW1$), excess variance, reduced $χ^2$, and structure function (SF) analysis over timescales of 0.5--10 years. We identify 632,939 variable AGNs, including 54,897 sources that exhibit large-amplitude variability ($ΔW1 > 0.5$ mag) and 624 with extreme intrinsic variability ($A_{\\rm var} > 0.5$ mag). A subset of these sources shows flare-like behavior, identifying them as candidate changing-look AGNs or tidal disruption events that warrant further spectroscopic and multi-wavelength follow-up. The SF analysis shows radio-detected AGNs exhibit the highest variability amplitudes, followed by X-ray detected and the overall AGN sample. The variability amplitude is strongly anti-correlated with the Eddington ratio, indicating enhanced variability in lower accretion rate systems. A weak positive dependence on radio-loudness further suggests a contribution from non-thermal emission in radio sources. These results demonstrate that MIR variability provides a robust diagnostic of accretion physics and an efficient means of identifying extreme and rapidly evolving AGN phenomena. The full catalog of variable AGNs is made publicly available.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Suvendu Rakshit (2026), arXiv:2611.17996."
+  },
+  {
+    "id": "2611.18153",
+    "title": "Constraining Accretion Regimes of Little Red Dots from Their Variability",
+    "authors": [
+      "Indu K. Dihingia"
+    ],
+    "published": "2026-11-13",
+    "updated": "2026-11-13",
+    "category": "astro-ph.HE",
+    "categories": [
+      "astro-ph.HE"
+    ],
+    "topic": "agn",
+    "tags": [
+      "active galactic",
+      "agn",
+      "accretion disk"
+    ],
+    "score": 18,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2611.18153",
+    "abstract": "The ``little red dots'' (LRDs) are photometrically and spectroscopically non-variable on rest-frame baselines of months, with a $5.9σ$ deficit relative to ordinary active galactic nuclei (AGNs). If we consider LRDs to be accreting black holes, this non-varying could be a clue about the nature of the accretion. Here, we present a general semi-analytic model of variability from super-Eddington (slim) accretion disks. We consider three mechanisms that play crucial roles in the observed variability, viz., advective attenuation, photospheric averaging, and photon diffusion filter. With this, above $\\mdot \\sim$ a few, the fractional rms collapses steeply with $\\mdot$. Comparing with JWST monitoring constraints, we find that the non-detection of LRD variability requires $\\mdot \\gtrsim 30$ for $M_{\\rm BH}\\sim10^{7}\\,M_\\odot$ on a 0.5\\,yr rest-frame baseline; a Monte Carlo forward model of the TWINKLE non-detections of 18 LRDs sharpens this to $\\mdot\\gtrsim60$ at 95\\% confidence. On current baselines, these non-detections remain formally degenerate with a frozen sub-Eddington disk ($\\mdot\\lesssim0.1$). Longer monitoring will separate the two regimes as the frozen-disk variability grows with baseline, while the super-Eddington collapse does not. The same framework predicts strongly suppressed X-ray variability, testable with future X-ray observatories.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Indu K. Dihingia (2026), arXiv:2611.18153."
+  },
+  {
+    "id": "2611.17740",
+    "title": "Counter-rotating Ionized and Neutral Gas in a Star-forming Elliptical Galaxy",
+    "authors": [
+      "Pralay Biswas",
+      "Yogesh Wadadekar",
+      "Omkar Bait",
+      "Sushma Kurapati"
+    ],
+    "published": "2026-11-13",
+    "updated": "2026-11-13",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "active galactic",
+      "agn"
+    ],
+    "score": 12,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2611.17740",
+    "abstract": "In early-type galaxies, gas that is kinematically misaligned with the stars generally rotates together across all gas phases, implying a single external origin. Using upgraded Giant Metrewave Radio Telescope (uGMRT) 21 cm imaging and SDSS-MaNGA spatially resolved spectroscopy, we studied MaNGA 10214-1902, a compact ($R_e = 0.78$ kpc), star-forming elliptical galaxy with stellar mass $\\log M_*/M_{\\odot} = 9.90$, in which the ionized gas counter-rotates with respect to the stars. It hosts $\\log(M_{\\rm HI}/M_{\\odot}) = 9.65$ in a 45 kpc HI disk that co-rotates with the stars and has a central column-density depression. Inside this depression, the ionized gas ($r \\lesssim 2$ kpc) rotates in the opposite sense to both the stars ($Δ{\\rm PA} = 152^\\circ \\pm 20^\\circ$) and the HI that surrounds it ($Δ{\\rm PA} = 179^\\circ \\pm 10^\\circ$). HI co-spatial with the ionized gas is not detected, so a fainter inner HI component with a different orientation cannot be ruled out. This central gas is star-forming in the [SII] and [OI] diagnostic diagrams and has EW(HI) $>6~\\mathrm{\\mathring{A}}$ at the center. The 1.4 GHz radio-continuum star formation rate agrees with the spectral energy distribution based value, showing no evidence of a dominant active galactic nucleus. The stellar population at the center is younger than the outskirts and has the lowest D$_{\\rm n}$4000. These results are consistent with the acquisition of gas with opposite angular momentum into the center of a pre-existing HI disk that co-rotates with the stars, which can fuel the most recent central star formation.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Pralay Biswas, Yogesh Wadadekar, Omkar Bait et al. (2026), arXiv:2611.17740."
+  },
+  {
+    "id": "2611.18286",
+    "title": "Extending an X-ray & Mid-Infrared diagnostic for absorption in Active Galactic Nuclei to higher redshifts using NuSTAR and XMM-Newton",
+    "authors": [
+      "Ryan J. Turney",
+      "Claire L. Greenwell",
+      "David M. Alexander"
+    ],
+    "published": "2026-11-13",
+    "updated": "2026-11-13",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "active galactic",
+      "agn"
+    ],
+    "score": 10,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2611.18286",
+    "abstract": "Determining the Compton thick fraction ($f_{CT}$) within the population of Active Galactic Nuclei (AGN) provides insight into the evolution and growth of Supermassive Black Holes. Measuring $f_{CT}$ requires methods of modelling the AGN column density ($N_{\\mathrm{H}}$), typically through spectral fitting which requires high source counts, or estimation methods such as the band ratio. We extend an $N_{\\mathrm{H}}$ estimation method using the ratio of observed X-ray and MIR luminosity ($\\log\\left({L}_{2-10\\mathrm{keV}} / {L}_{12\\mathrm{μm}}\\right)$), previously applied in the local universe ($z<0.1$), to a higher redshift. We used a sample of 47 bright AGN from the NuSTAR 80-month catalogue (NSS80) with a median redshift of $\\langle z \\rangle = 0.35$ as the high redshift comparison, and we applied X-ray spectral fitting to the NuSTAR sources with physically motivated AGN models to provide $N_\\mathrm{H}$ constraints. The high-$z$ relationship was found to be consistent with the same model as the low-$z$ comparison, but with modestly different parameters which we determined to be due to a higher X-ray luminosity within the NSS80 sample. We applied the model to the full NSS80 catalogue to determine a statistical measure of the observed Compton thick fraction at $f_{CT}=4.9^{+2.0}_{-2.3}\\%$ to $1σ$ uncertainty, consistent with other recent low-$z$ Swift/BAT measurements.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Ryan J. Turney, Claire L. Greenwell, David M. Alexander (2026), arXiv:2611.18286."
+  },
+  {
+    "id": "2611.17665",
+    "title": "SN Progenitors of SNRs in OB Associations in the LMC. I. Assessment of Methodology Using N63A",
+    "authors": [
+      "Yuka Terada",
+      "You-Hua Chu"
+    ],
+    "published": "2026-11-13",
+    "updated": "2026-11-13",
+    "category": "astro-ph.SR",
+    "categories": [
+      "astro-ph.SR",
+      "astro-ph.GA",
+      "astro-ph.HE"
+    ],
+    "topic": "agn",
+    "tags": [
+      "agn"
+    ],
+    "score": 6,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2611.17665",
+    "abstract": "Color--magnitude diagrams (CMDs) can constrain the progenitor masses of supernova remnants (SNRs), but mass estimates for massive stars are affected by limited temperature sensitivity, extinction, crowding, and nebular contamination. We use the Large Magellanic Cloud (LMC) SNR N63A and its OB association LH83 as a benchmark to evaluate CMD-based mass estimates. Among the tested diagnostics, the extinction-corrected MCPS $B$ vs. $U-B$ CMD provides the most useful constraint on the massive-star population. The $V$ vs. $B-V$ CMD is less reliable, while the reddening-free $W$-$Q$ diagram does not improve individual mass estimates because of its larger photometric uncertainties. Gaia EDR3 recovers bright stars missing or saturated in MCPS but provides weaker separation among the hottest stars. For seven spectroscopically classified stars, the $B$ vs. $U-B$ CMD-based masses are lower than the HR-diagram masses inferred using the same MIST tracks by $8.0~M_\\odot$ on average, with a scatter of $7.0~M_\\odot$. Isochrone comparisons suggest that most of the massive stars in LH83 formed about 7-15 Myr ago, complicating progenitor mass estimates based on the present-day mass function. Nevertheless, the masses of D243-1a and D243-2, stellar lifetimes predicted by the MIST models, and the empirical bubble-size-progenitor-mass relation suggest a progenitor mass of order 25-30 $M_\\odot$. Our results highlight the potential and limitations of this approach for studying other LMC SNRs in OB associations.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Yuka Terada, You-Hua Chu (2026), arXiv:2611.17665."
+  },
+  {
+    "id": "2611.17439",
+    "title": "Soft Excess Variability and a Test of X-ray Reprocessing in AGN Mrk 359 and NGC 4051 using NICER and TESS",
+    "authors": [
+      "Tejas Sewak",
+      "Michael M. Fausnaugh",
+      "Edward M. Cackett",
+      "Javier A. García",
+      "Keith Horne",
+      "Rahul Jayaraman",
+      "Viraja C. Khatu",
+      "Ethan Partington",
+      "Raj Prince"
+    ],
+    "published": "2026-11-12",
+    "updated": "2026-11-12",
+    "category": "astro-ph.HE",
+    "categories": [
+      "astro-ph.HE",
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "agn",
+      "reverberation",
+      "accretion disk"
+    ],
+    "score": 20,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2611.17439",
+    "abstract": "Continuum reverberation mapping of AGN accretion disks assumes that X-ray reprocessing drives the UV/optical variations on short timescales. This reprocessing should also produce an X-ray reflection spectrum, which could be the soft excess observed in many Type 1 AGN. Consequently, if the soft excess traces the reflected emission, the soft excess and optical light curves should be correlated because their variability is driven by the same illuminating X-ray continuum. We present results from a cross-correlation study using simultaneous NICER and TESS observations of $\\sim$$30\\mathrm{~days}$ for two AGN: Mrk 359 and NGC 4051. We performed time-resolved spectroscopic fits to the X-ray data using a model with power-law and soft-excess components. We find no strong correlation between the optical and soft excess light curves, with correlation coefficients $R(τ)$ $\\sim$0.5 for both sources. The total X-ray light curve also shows a similarly poor correlation with the optical variations. However, we find a stronger correlation between the primary X-ray flux and the soft excess flux for both sources. The lack of correlation between the primary X-rays and soft-excess with the optical variations implies that simple linear X-ray reprocessing is not the dominant process driving the optical variability. Either an intervening reprocessor between the inner X-ray region and outer disc is present that dilutes the X-ray-optical correlation, or the optical variability is driven by other mechanisms such as extreme-UV reprocessing or intrinsic disk variability.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "Tejas Sewak, Michael M. Fausnaugh, Edward M. Cackett et al. (2026), arXiv:2611.17439."
+  },
+  {
     "id": "2611.17033",
     "title": "A Variable Compact Millimeter Excess in the Type-1 Seyfert Galaxy NGC 985: Implications for a Black-Hole Corona",
     "authors": [
@@ -94,6 +288,38 @@
     "scientific_summary": "",
     "caveat": "",
     "reference": "Changwen Zeng, Zhiwei Chen, Youjun Lu et al. (2026), arXiv:2611.16225."
+  },
+  {
+    "id": "2611.17452",
+    "title": "Insights into low-ionization structures in planetary nebulae: near-IR longslit spectroscopy",
+    "authors": [
+      "M. B. Mari",
+      "S. Akras",
+      "L. Konstantinou",
+      "D. R. Gonçalves",
+      "C. G. Díaz"
+    ],
+    "published": "2026-11-12",
+    "updated": "2026-11-12",
+    "category": "astro-ph.GA",
+    "categories": [
+      "astro-ph.GA"
+    ],
+    "topic": "agn",
+    "tags": [
+      "agn"
+    ],
+    "score": 9,
+    "status": "Preprint / verify journal status",
+    "version": 1,
+    "review_status": "metadata_only",
+    "evidence_level": "arXiv abstract (unreviewed)",
+    "link": "https://arxiv.org/abs/2611.17452",
+    "abstract": "Context. Low-ionization structures (LISs) are small, dense clumps within planetary nebulae (PNe) that stand out in low-ionization emission lines, but the physical processes responsible for their excitation and the nature of H2 remain poorly understood. Aims. We aim to characterize the excitation conditions and mass content of LISs in two PNe through near-IR longslit spectroscopy of these structures, combining H2, Brg, and [Fe II] diagnostics. Methods. We obtained H and K band spectra with GNIRS at Gemini North for LISs in NGC 6818 and NGC 7354 --objects with confirmed H2 emission in their LISs. We applied H2 excitation diagrams, vibrational and rotational temperature diagnostics, classical near-IR diagnostic diagrams, and spatial profile analysis to constrain the physical conditions of the molecular and atomic gas phases. Results. H2, Brg, and [Fe II] emission are detected in all structures studied. The H2 level populations are consistent with predominantly thermal, near-LTE excitation, with excitation temperatures in the range ~1860-2450 K. The [Fe II]/Brg ratios are well below the values expected for shock or X-ray dominated regions, favoring photoionization as the dominant excitation mechanism of the atomic gas. A clear spatial stratification is observed in both objects, with Brg peaking closer to the central star and H2 1-0S(1) and [Fe II] co-spatial at larger distances. The warm molecular masses derived from H2 emission lines are consistent with those estimated independently from H2 column densities. Conclusions. The diagnostics presented here support a photoevaporation scenario in which LISs are dense clumps being progressively ionized from outside by the radiation of central stars, while their H2 cores remain self-shielded. A slow internal shock may release Fe into the gas phase. These results extend the molecular mass trend established previously to a larger sample.",
+    "lay_summary": "",
+    "scientific_summary": "",
+    "caveat": "",
+    "reference": "M. B. Mari, S. Akras, L. Konstantinou et al. (2026), arXiv:2611.17452."
   },
   {
     "id": "2611.16166",
